@@ -1,0 +1,40 @@
+/* Variables */
+nav { display: flex; margin-bottom: 2em; }
+
+.nav-item { margin-right: 2.5em; text-decoration: none; line-height: 1.5; font-size: 1.25em; font-weight: normal; color: #888; }
+
+.nav-item:visited { text-decoration: none; color: inherit; }
+
+.nav-item-selected { text-decoration: underline; }
+
+.info { width: 240px; min-width: 240px; max-width: 240px; padding: 5px; word-wrap: break-word; margin-right: 2em; }
+
+.info__name { font-variant: small-caps; font-size: 1.5em; margin-top: -1px; letter-spacing: 0.065em; font-weight: bold; }
+
+.info__avatar { margin: 1em 0; border-radius: 50%; width: 150px; height: 150px; }
+
+.info__url { margin: 0.5em 0; text-decoration: none; color: #1563AA; }
+
+.info__basic { margin-bottom: 1em; }
+
+.info__contacts { margin-bottom: 1em; }
+
+.about__p { text-align: justify; word-wrap: break-word; font-size: 0.81rem; }
+
+.research { margin-bottom: 1em; }
+
+.research__url { margin: 0.5em 0; text-decoration: none; color: #1563AA; }
+
+.research__author { font-size: 0.95em; font-weight: normal; font-style: normal; color: #393B47; }
+
+.research__author-self { font-weight: bolder; }
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body { line-height: 1.5em; font-size: 0.81em; font-family: Verdana, Geneva, Tahoma, sans-serif; }
+
+.container { margin: 16px; width: 800px; min-width: 360px; display: flex; flex-direction: row; }
+
+.title { font-size: 1.35em; font-weight: normal; color: #A92F0A; line-height: 0.9em; margin: 0 0 1.5em 0; }
+
+/*# sourceMappingURL=styles.css.map */

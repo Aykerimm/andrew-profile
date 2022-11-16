@@ -1,0 +1,24 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss",
+		"_sass/variables.scss",
+		"_sass/navigation.scss",
+		"_sass/info.scss",
+		"_sass/about.scss",
+		"_sass/researches.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"\n\n\n/* Variables */\n@import \"variables\";\n\n@import \"navigation\";\n@import \"info\";\n@import \"about\";\n@import \"researches\";\n\n\n\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\nbody {\n    line-height: 1.5em;\n    font-size: 0.81em;\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\n}\n\n.container {\n    margin: 16px;\n    width: 800px;\n    min-width: 360px;\n    display: flex;\n    flex-direction: row;\n}\n\n.title {\n    font-size: 1.35em;\n    font-weight: normal;\n    color: #A92F0A;\n    line-height: 0.9em;\n    margin: 0 0 1.5em 0;\n}\n",
+		"\n$small: 600px !default;\n$medium: 768px !default;\n$medium-wide: 900px !default;\n$large: 1024px !default;\n$x-large: 1280px !default;\n$max-width: $x-large !default;",
+		"\nnav {\n    display: flex;\n    margin-bottom: 2em;\n}\n\n.nav-item {\n    margin-right: 2.5em;\n    text-decoration: none;\n    line-height: 1.5;\n    font-size: 1.25em;\n    font-weight: normal;\n    color: #888;\n}\n\n.nav-item:visited {\n    text-decoration: none;\n    color: inherit;\n}\n\n.nav-item-selected {\n    text-decoration: underline;\n}\n",
+		".info {\n    width: 240px;\n    min-width: 240px;\n    max-width: 240px;\n    \n    padding: 5px;\n    word-wrap: break-word;\n\n    margin-right: 2em;\n}\n\n.info__name {\n    font-variant: small-caps;\n    font-size: 1.5em;\n    margin-top: -1px;\n    letter-spacing: 0.065em;\n    font-weight: bold;\n}\n\n.info__avatar {\n    margin: 1em 0;\n    border-radius: 50%;\n    width: 150px;\n    height: 150px;\n}\n\n.info__url {\n    margin: 0.5em 0;\n    text-decoration: none;\n    color: #1563AA;\n}\n\n.info__basic {\n    margin-bottom: 1em;\n}\n\n.info__contacts {\n    margin-bottom: 1em;\n}",
+		"\n.about__p {\n    text-align: justify;\n    word-wrap: break-word;\n    font-size: 0.81rem;\n}",
+		".research {\n    margin-bottom: 1em;\n}\n\n.research__url {\n    margin: 0.5em 0;\n    text-decoration: none;\n    color: #1563AA;\n}\n\n.research__author {\n    font-size: 0.95em;\n    // line-height: 0.2em;\n    font-weight: normal;\n    font-style: normal;\n    color: #393B47;\n}\n\n.research__author-self {\n    font-weight: bolder;\n}"
+	],
+	"names": [],
+	"mappings": "ACGA,eAAe;AEFf,AAAA,GAAG,CAAC,EACA,OAAO,EAAE,IAAI,EACb,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,SAAS,CAAC,EACN,YAAY,EAAE,KAAK,EACnB,eAAe,EAAE,IAAI,EACrB,WAAW,EAAE,GAAG,EAChB,SAAS,EAAE,MAAM,EACjB,WAAW,EAAE,MAAM,EACnB,KAAK,EAAE,IAAI,GACd;;AAED,AAAA,SAAS,CAAC,OAAO,CAAC,EACd,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,GACjB;;AAED,AAAA,kBAAkB,CAAC,EACf,eAAe,EAAE,SAAS,GAC7B;;ACtBD,AAAA,KAAK,CAAC,EACF,KAAK,EAAE,KAAK,EACZ,SAAS,EAAE,KAAK,EAChB,SAAS,EAAE,KAAK,EAEhB,OAAO,EAAE,GAAG,EACZ,SAAS,EAAE,UAAU,EAErB,YAAY,EAAE,GAAG,GACpB;;AAED,AAAA,WAAW,CAAC,EACR,YAAY,EAAE,UAAU,EACxB,SAAS,EAAE,KAAK,EAChB,UAAU,EAAE,IAAI,EAChB,cAAc,EAAE,OAAO,EACvB,WAAW,EAAE,IAAI,GACpB;;AAED,AAAA,aAAa,CAAC,EACV,MAAM,EAAE,KAAK,EACb,aAAa,EAAE,GAAG,EAClB,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,KAAK,GAChB;;AAED,AAAA,UAAU,CAAC,EACP,MAAM,EAAE,OAAO,EACf,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,GACjB;;AAED,AAAA,YAAY,CAAC,EACT,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,eAAe,CAAC,EACZ,aAAa,EAAE,GAAG,GACrB;;ACrCD,AAAA,SAAS,CAAC,EACN,UAAU,EAAE,OAAO,EACnB,SAAS,EAAE,UAAU,EACrB,SAAS,EAAE,OAAO,GACrB;;ACLD,AAAA,SAAS,CAAC,EACN,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,cAAc,CAAC,EACX,MAAM,EAAE,OAAO,EACf,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,OAAO,GACjB;;AAED,AAAA,iBAAiB,CAAC,EACd,SAAS,EAAE,MAAM,EAEjB,WAAW,EAAE,MAAM,EACnB,UAAU,EAAE,MAAM,EAClB,KAAK,EAAE,OAAO,GACjB;;AAED,AAAA,sBAAsB,CAAC,EACnB,WAAW,EAAE,MAAM,GACtB;;ALPD,AAAA,CAAC,CAAC,EACE,MAAM,EAAE,CAAC,EACT,OAAO,EAAE,CAAC,EACV,UAAU,EAAE,UAAU,GACzB;;AACD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,KAAK,EAClB,SAAS,EAAE,MAAM,EACjB,WAAW,EAAE,mCAAmC,GACnD;;AAED,AAAA,UAAU,CAAC,EACP,MAAM,EAAE,IAAI,EACZ,KAAK,EAAE,KAAK,EACZ,SAAS,EAAE,KAAK,EAChB,OAAO,EAAE,IAAI,EACb,cAAc,EAAE,GAAG,GACtB;;AAED,AAAA,MAAM,CAAC,EACH,SAAS,EAAE,MAAM,EACjB,WAAW,EAAE,MAAM,EACnB,KAAK,EAAE,OAAO,EACd,WAAW,EAAE,KAAK,EAClB,MAAM,EAAE,WAAW,GACtB"
+}
