@@ -1,0 +1,23 @@
+
+nav {
+    display: flex;
+    margin-bottom: 2em;
+}
+
+.nav-item {
+    margin-right: 2.5em;
+    text-decoration: none;
+    line-height: 1.5;
+    font-size: 1.25em;
+    font-weight: normal;
+    color: #888;
+}
+
+.nav-item:visited {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-item-selected {
+    text-decoration: underline;
+}

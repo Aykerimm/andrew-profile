@@ -1,0 +1,17 @@
+<div class="info">
+    <h1 class="info__name">{{ site.data.author.name }}</h1>
+    <img src="{{ site.data.author.avatar }}" alt="headshot" class="info__avatar">
+    <div class="info__basic">
+        <p class="info__position">{{ site.data.author.position }}</p>
+        <a href="{{ site.data.author.department.url }}" class="info__url">{{ site.data.author.department.name }}</a>
+        <a href="{{ site.data.author.university.url }}" class="info__url">{{ site.data.author.university.name }}</a>
+    </div>
+
+    <div class="info__contacts">
+        <div>Email: <a class="info__url" href="mailto:{{ site.data.author.email }}">{{ site.data.author.email }}</a></div>
+        <div>Twitter: <a class="info__url" href="{{ site.data.author.twitter.url }}">@{{ site.data.author.twitter.username }}</a></div>
+        <div>Google Scholar: <a class="info__url" href="https://scholar.google.com/citations?hl=en&user=OjWXOSsAAAAJ">{{ site.data.author.name }}</a></div>
+    </div>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde fugiat consequuntur ea similique dolorem vero ipsum quidem cumque facilis, est asperiores sint praesentium rerum. Quam dicta autem fugit soluta vitae!</p>
+</div>

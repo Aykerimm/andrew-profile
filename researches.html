@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<center>
+    <p class="title">Researches</p>
+</center>
+
+<style>
+    ol {
+        text-align: justify;
+    }
+</style>
+<ol reversed>
+{% for research in site.data.researches %}
+    <li class="research">
+        <a class="research__url" href="{{ research.paper.url }}">{{ research.paper.title }}</a>
+        <p class="research__authors">
+            {%- for author in research.authors -%}
+                {%- if forloop.last -%}
+                    &nbsp;and
+                {%- endif -%}
+                <span class="research__author{% if author contains site.data.author.name or author contains "Andrew Stokes" or author contains "Stokes AC" %} research__author-self{% endif %}">
+                    {{ author }}</span>
+                {%- if forloop.last != true -%}
+                    ,
+                {%- else -%}
+                    .
+                {%- endif -%}
+            {%- endfor -%}
+            <!-- {{ research.authors | array_to_sentence_string }} -->
+        </p>
+    </li>
+{% endfor %}
+</ol>
