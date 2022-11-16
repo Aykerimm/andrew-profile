@@ -1,0 +1,39 @@
+.info {
+    width: 240px;
+    min-width: 240px;
+    max-width: 240px;
+    
+    padding: 5px;
+    word-wrap: break-word;
+
+    margin-right: 2em;
+}
+
+.info__name {
+    font-variant: small-caps;
+    font-size: 1.5em;
+    margin-top: -1px;
+    letter-spacing: 0.065em;
+    font-weight: bold;
+}
+
+.info__avatar {
+    margin: 1em 0;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.info__url {
+    margin: 0.5em 0;
+    text-decoration: none;
+    color: #1563AA;
+}
+
+.info__basic {
+    margin-bottom: 1em;
+}
+
+.info__contacts {
+    margin-bottom: 1em;
+}

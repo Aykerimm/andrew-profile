@@ -1,0 +1,18 @@
+name: "Andrew C.Stokes"
+avatar: "/assets/images/andrew_stokes_headshot.jpeg"
+position: "Assistant Professor"
+department:
+  name: "Department of Global Health"
+  url: "https://www.bu.edu/sph/about/departments/global-health/"
+university:
+  name: >
+    Boston University<br>School of Public Health
+  url: "https://www.bu.edu/sph/"
+email: "acstokes@bu.edu"
+github: 
+twitter:
+  username: "astokespop"
+  url: "https://twitter.com/astokespop"
+google-scholar: https://scholar.google.com/citations?hl=en&user=OjWXOSsAAAAJ
+
+ 
