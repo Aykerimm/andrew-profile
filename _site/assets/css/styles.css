@@ -40,5 +40,3 @@ body { line-height: 1.5em; font-size: 0.81em; font-family: Verdana, Geneva, Taho
 .container { margin: 16px; width: 800px; min-width: 360px; display: flex; flex-direction: row; }
 
 .title { font-size: 1.35em; font-weight: normal; color: #A92F0A; line-height: 0.9em; margin: 0 0 1.5em 0; }
-
-/*# sourceMappingURL=styles.css.map */
