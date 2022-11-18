@@ -29,6 +29,10 @@ nav { display: flex; margin-bottom: 2em; }
 
 .research__author-self { font-weight: bolder; }
 
+.research__meta { font-size: 1em; line-height: 2em; color: #272727; }
+
+.research__meta-publisher { font-style: italic; }
+
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 body { line-height: 1.5em; font-size: 0.81em; font-family: Verdana, Geneva, Tahoma, sans-serif; }

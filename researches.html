@@ -6,29 +6,31 @@ layout: default
 </center>
 
 <style>
-    ol {
+    ul {
         text-align: justify;
     }
 </style>
-<ol reversed>
-{% for research in site.data.researches %}
+<ul>
+{% for research in site.data.researches_zotero %}
     <li class="research">
-        <a class="research__url" href="{{ research.paper.url }}">{{ research.paper.title }}</a>
+        <a class="research__url" href="{{ research.url }}">{{ research.title }}</a>
         <p class="research__authors">
             {%- for author in research.authors -%}
-                {%- if forloop.last -%}
+                {%- if forloop.last and research.authors.size != 1 -%}
                     &nbsp;and
                 {%- endif -%}
-                <span class="research__author{% if author contains site.data.author.name or author contains "Andrew Stokes" or author contains "Stokes AC" %} research__author-self{% endif %}">
-                    {{ author }}</span>
+                <span class="research__author{% if author.fullName contains site.data.author.name or author.fullName contains "Stokes" or author.fullName contains "Andrew" %} research__author-self{% endif %}">
+                    {{ author.fullName }}</span>
                 {%- if forloop.last != true -%}
                     ,
                 {%- else -%}
                     .
                 {%- endif -%}
             {%- endfor -%}
-            <!-- {{ research.authors | array_to_sentence_string }} -->
+        </p>
+        <p class="research__meta">
+            <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.raw }}
         </p>
     </li>
 {% endfor %}
-</ol>
+</ul>
