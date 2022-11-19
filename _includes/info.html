@@ -1,6 +1,6 @@
 <div class="info">
     <h1 class="info__name">{{ site.data.author.name }}</h1>
-    <img src="{{ site.data.author.avatar }}" alt="headshot" class="info__avatar">
+    <img src="{{site.baseurl}}{{ site.data.author.avatar }}" alt="headshot" class="info__avatar">
     <div class="info__basic">
         <p class="info__position">{{ site.data.author.position }}</p>
         <a href="{{ site.data.author.department.url }}" class="info__url">{{ site.data.author.department.name }}</a>
