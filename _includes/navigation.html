@@ -2,7 +2,7 @@
   {% for item in site.data.navigation %}
     <a
         href="{{ site.baseurl }}{{ item.url }}"
-        class="nav-item{% if page.url == item.url %} nav-item-selected{% endif %}"
+        class="nav-item{% if page.pageurl == item.url %} nav-item-selected{% endif %}"
     >
         {{ item.title }}
     </a>
