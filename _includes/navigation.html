@@ -3,6 +3,7 @@
     <a
         href="{{ site.baseurl }}{{ item.url }}"
         class="nav-item{% if page.pageurl == item.url %} nav-item-selected{% endif %}"
+        {% if item.title == "cv" %}download="Andrew_C_Stokes-CV.pdf"{% endif %}
     >
         {{ item.title }}
     </a>
