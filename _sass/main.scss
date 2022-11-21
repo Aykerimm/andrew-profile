@@ -8,7 +8,8 @@
 @import "info";
 @import "about";
 @import "researches";
-
+@import "lab";
+@import "teaching";
 
 
 * {
@@ -36,4 +37,10 @@ body {
     color: #A92F0A;
     line-height: 0.9em;
     margin: 0 0 1.5em 0;
+}
+
+a {
+    margin: 0.5em 0;
+    text-decoration: none;
+    color: #1563AA;
 }

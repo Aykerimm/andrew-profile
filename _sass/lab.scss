@@ -1,0 +1,26 @@
+.lab {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+
+.lab__logo {
+    height: 150px;
+}
+
+.lab__description {
+    font-size: 1em;
+    word-wrap: break-word;
+}
+
+.lab__button {
+    margin-top: 2em;
+    line-height: 1.5em;
+    font-size: larger;
+    background-color: #ccc;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.5em 1em;
+}
