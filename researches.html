@@ -37,7 +37,7 @@ pageurl: /researches
                     {%- if forloop.last and research.authors.size != 1 -%}
                         &nbsp;and
                     {%- endif -%}
-                    <span class="research__author{% if author.fullName contains site.data.author.name or author.fullName contains "Stokes" or author.fullName contains "Andrew" %} research__author-self{% endif %}">
+                    <span class="research__author{% if author.isMe  %} research__author-self{% endif %}">
                         {{ author.fullName }}</span>
                     {%- if forloop.last != true -%}
                         ,

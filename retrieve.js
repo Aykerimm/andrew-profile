@@ -62,6 +62,11 @@ const getName = (author) => {
     fullName = firstName + " " + lastName;
   }
 
+  if (fullName.toLowerCase().match(/(.*andrew.*stokes)|(.*a.*stokes)/)) {
+    author.isMe = true;
+    fullName = "Andrew C Stokes";
+  }
+
   author.fullName = fullName;
   delete author.creatorType;
 
