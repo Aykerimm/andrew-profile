@@ -2,11 +2,13 @@
   {
     "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 8,
+      "monthText": "August",
       "raw": "2022-08"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8292448/",
-    "publisher": "",
+    "publisher": "Tob. Control",
     "authors": [
       {
         "firstName": "Alyssa F",
@@ -48,11 +50,13 @@
   {
     "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 7,
+      "monthText": "July",
       "raw": "2022-07"
     },
     "url": "https://www.science.org/doi/10.1126/scitranslmed.abi9522",
-    "publisher": "",
+    "publisher": "Sci. Transl. Med.",
     "authors": [
       {
         "firstName": "Nicole",
@@ -104,11 +108,13 @@
   {
     "title": "Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 7,
+      "monthText": "July",
       "raw": "2022-07"
     },
     "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2791682",
-    "publisher": "",
+    "publisher": "JAMA Intern. Med.",
     "authors": [
       {
         "firstName": "Ruijia",
@@ -150,11 +156,13 @@
   {
     "title": "e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth: Accounting for Time-Varying Exposure and Time-Dependent Confounding",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 7,
+      "monthText": "July",
       "raw": "2022-07"
     },
     "url": "https://journals.lww.com/epidem/Abstract/2022/07000/e_Cigarette_Use_and_Combustible_Cigarette_Smoking.10.aspx",
-    "publisher": "",
+    "publisher": "Epidemiology",
     "authors": [
       {
         "firstName": "Alyssa F",
@@ -191,7 +199,9 @@
   {
     "title": "Missing Americans: Early death in the United States, 1933-2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.06.29.22277065v2.full-text",
@@ -237,11 +247,13 @@
   {
     "title": "Excess natural-cause deaths in California by cause and setting: March 2020 through February 2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272175/",
-    "publisher": "Oxford University Press",
+    "publisher": "PNAS Nexus",
     "authors": [
       {
         "firstName": "Yea-Hung",
@@ -298,11 +310,13 @@
   {
     "title": "“Pandemic of the unvaccinated”? At midlife, white people are less vaccinated but still at less risk of Covid-19 mortality in Minnesota",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.03.02.22271808v3.full-text",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "medRxiv",
     "authors": [
       {
         "firstName": "Elizabeth",
@@ -329,11 +343,13 @@
   {
     "title": "Data Resource Profile: The Global Health and Population Project on Access to Care for Cardiometabolic Diseases (HPACC)",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyac125/6619177",
-    "publisher": "",
+    "publisher": "Int. J. Epidemiol.",
     "authors": [
       {
         "firstName": "Jennifer",
@@ -600,11 +616,13 @@
   {
     "title": "Depressive symptoms and multi-joint pain partially mediate the relationship between obesity and opioid use in people with knee osteoarthritis",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S1063458422007658?v=s5",
-    "publisher": "",
+    "publisher": "Osteoarthritis Cartilage",
     "authors": [
       {
         "firstName": "L C",
@@ -660,11 +678,13 @@
   {
     "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://www.ahajournals.org/doi/abs/10.1161/circ.146.suppl_1.10088",
-    "publisher": "",
+    "publisher": "Am. J. Respir. Crit. Care Med.",
     "authors": [
       {
         "firstName": "Wubin",
@@ -751,11 +771,13 @@
   {
     "title": "Associations of Smokeless Tobacco Use With Cardiovascular Disease Risk: Insights From the Population Assessment of Tobacco and Health Study",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
       "raw": "2022-06"
     },
     "url": "https://academic.oup.com/ntr/article-abstract/24/7/1063/6499417?login=false&redirectedFrom=fulltext",
-    "publisher": "",
+    "publisher": "Nicotine Tob. Res.",
     "authors": [
       {
         "firstName": "Mary",
@@ -817,11 +839,13 @@
   {
     "title": "E-Cigarette Use and Risk of Cardiovascular Disease: A Longitudinal Analysis of the PATH Study (2013-2019)",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 5,
+      "monthText": "May",
       "raw": "2022-05"
     },
     "url": "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.121.057369",
-    "publisher": "",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "Jonathan B",
@@ -868,11 +892,13 @@
   {
     "title": "Evaluation of Age Patterns of COVID-19 Mortality by Race and Ethnicity From March 2020 to October 2021 in the US",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 5,
+      "monthText": "May",
       "raw": "2022-05"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2792375",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Irma T",
@@ -909,11 +935,13 @@
   {
     "title": "Excess all-cause mortality across counties in the United States, March 2020 to December 2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 5,
+      "monthText": "May",
       "raw": "2022-05"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.04.23.22274192v2",
-    "publisher": "",
+    "publisher": "medRxiv",
     "authors": [
       {
         "firstName": "Eugenio",
@@ -975,11 +1003,13 @@
   {
     "title": "Association of Online Search Trends With Vaccination in the United States: June 2020 Through May 2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 4,
+      "monthText": "April",
       "raw": "2022-04"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238308/",
-    "publisher": "",
+    "publisher": "Front. Immunol.",
     "authors": [
       {
         "firstName": "Philipp",
@@ -1036,11 +1066,13 @@
   {
     "title": "Maximum and Time-Dependent Body Mass Index and Breast Cancer Incidence Among Postmenopausal Women in the Black Women's Health Study",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 3,
+      "monthText": "March",
       "raw": "2022-03"
     },
     "url": "https://academic.oup.com/aje/article-abstract/191/4/646/6502543?redirectedFrom=fulltext",
-    "publisher": "academic.oup.com",
+    "publisher": "Am. J. Epidemiol.",
     "authors": [
       {
         "firstName": "Wambui G",
@@ -1097,11 +1129,13 @@
   {
     "title": "The unequal burden of the Covid-19 pandemic: Capturing racial/ethnic disparities in US cause-specific mortality",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 3,
+      "monthText": "March",
       "raw": "2022-03"
     },
     "url": "https://www.sciencedirect.com/science/article/pii/S2352827321002871",
-    "publisher": "",
+    "publisher": "SSM Popul Health",
     "authors": [
       {
         "firstName": "Anneliese N",
@@ -1128,11 +1162,13 @@
   {
     "title": "County-level estimates of excess mortality associated with COVID-19 in the United States",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 3,
+      "monthText": "March",
       "raw": "2022-03"
     },
     "url": "https://www.sciencedirect.com/science/article/pii/S2352827321002962",
-    "publisher": "",
+    "publisher": "SSM Popul Health",
     "authors": [
       {
         "firstName": "Calvin A",
@@ -1169,7 +1205,9 @@
   {
     "title": "COVID-19 mortality and excess mortality among working-age Californians, by occupational sector: March 2020 through November 2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 2,
+      "monthText": "February",
       "raw": "2022-02"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.02.14.22270958v1.full-text",
@@ -1230,7 +1268,9 @@
   {
     "title": "COVID-19 mortality and excess mortality among working-age Californians, by occupational sector: March 2020 through November 2021",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 2,
+      "monthText": "February",
       "raw": "2022-02"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.02.14.22270958v1.full-text",
@@ -1291,11 +1331,13 @@
   {
     "title": "Association of Weight at Different Ages and All-Cause Mortality Among Older Adults in the US",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 2,
+      "monthText": "February",
       "raw": "2022-02"
     },
     "url": "https://journals.sagepub.com/doi/abs/10.1177/08982643211059717",
-    "publisher": "",
+    "publisher": "J. Aging Health",
     "authors": [
       {
         "firstName": "Kaitlyn M",
@@ -1322,11 +1364,13 @@
   {
     "title": "COVID-19 mortality among working-age Americans in 46 states, by industry and occupation",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 1,
+      "monthText": "January",
       "raw": "2022"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2022.03.29.22273085v2.full-text",
-    "publisher": "Cold Spring Harbor Laboratory Press",
+    "publisher": "medRxiv",
     "authors": [
       {
         "firstName": "Yea-Hung",
@@ -1373,11 +1417,13 @@
   {
     "title": "Association of E-Cigarettes With Erectile Dysfunction: The Population Assessment of Tobacco and Health Study",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 1,
+      "monthText": "January",
       "raw": "2022-01"
     },
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0749379721004293",
-    "publisher": "",
+    "publisher": "Am. J. Prev. Med.",
     "authors": [
       {
         "firstName": "Omar",
@@ -1449,11 +1495,13 @@
   {
     "title": "Widening Socioeconomic Disparities in Pain and Physical Function Among Americans Are Linked with Growing Obesity",
     "date": {
-      "year": "2022",
+      "year": 2022,
+      "month": 1,
+      "monthText": "January",
       "raw": "2022-01"
     },
     "url": "https://journals.sagepub.com/doi/abs/10.1177/08982643211028121",
-    "publisher": "",
+    "publisher": "J. Aging Health",
     "authors": [
       {
         "firstName": "Dana A",
@@ -1475,11 +1523,13 @@
   {
     "title": "Loneliness, social isolation, and all-cause mortality in the United States",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 12,
+      "monthText": "December",
       "raw": "2021-12"
     },
     "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2210941119",
-    "publisher": "Elsevier",
+    "publisher": "SSM - Mental Health",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -1511,11 +1561,13 @@
   {
     "title": "Mortality following workplace injury: Quantitative bias analysis",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 12,
+      "monthText": "December",
       "raw": "2021-12"
     },
     "url": "https://scholar.google.com/scholar?cluster=2518183858415132818&hl=en&oi=scholarr",
-    "publisher": "",
+    "publisher": "Ann. Epidemiol.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -1562,11 +1614,13 @@
   {
     "title": "Cannabis vaping among adults in the United States: Prevalence, trends, and association with high-risk behaviors and adverse respiratory conditions",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 12,
+      "monthText": "December",
       "raw": "2021-12"
     },
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0091743521003698",
-    "publisher": "",
+    "publisher": "Prev. Med.",
     "authors": [
       {
         "firstName": "Ellen",
@@ -1628,11 +1682,13 @@
   {
     "title": "Lipid profiles in users of combustible and electronic cigarettes",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 10,
+      "monthText": "October",
       "raw": "2021-10"
     },
     "url": "https://journals.sagepub.com/doi/pdf/10.1177/1358863X211009313",
-    "publisher": "",
+    "publisher": "Vasc. Med.",
     "authors": [
       {
         "firstName": "Sana",
@@ -1699,11 +1755,13 @@
   {
     "title": "Obesity and the Risk of Incident Chronic Opioid Use in Rheumatoid Arthritis",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 10,
+      "monthText": "October",
       "raw": "2021-10"
     },
     "url": "https://scholar.google.com/scholar?cluster=2518183858415132818&hl=en&oi=scholarr",
-    "publisher": "",
+    "publisher": "Arthritis Care Res.",
     "authors": [
       {
         "firstName": "Joshua F",
@@ -1755,7 +1813,9 @@
   {
     "title": "Health systems performance for hypertension control using a cascade of care approach in South Africa, 2008-2017",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 9,
+      "monthText": "September",
       "raw": "2021-09"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2021.09.13.21251870v1.full-text",
@@ -1826,11 +1886,13 @@
   {
     "title": "Association of Occupational Exposure to Inhaled Agents in Operating Rooms With Incidence of Chronic Obstructive Pulmonary Disease Among US Female Nurses",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 9,
+      "monthText": "September",
       "raw": "2021-09"
     },
     "url": "https://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2022.205.1_MeetingAbstracts.A5523",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Wubin",
@@ -1867,11 +1929,13 @@
   {
     "title": "Association of Health Care Factors With Excess Deaths Not Assigned to COVID-19 in the US",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 9,
+      "monthText": "September",
       "raw": "2021-09"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783986",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -1908,11 +1972,13 @@
   {
     "title": "Body-mass index and diabetes risk in 57 low-income and middle-income countries: a cross-sectional study of nationally representative, individual-level data in 685 616 adults",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 7,
+      "monthText": "July",
       "raw": "2021-07"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336025/",
-    "publisher": "",
+    "publisher": "Lancet",
     "authors": [
       {
         "firstName": "Felix",
@@ -2144,11 +2210,13 @@
   {
     "title": "Excess Deaths During the COVID-19 Pandemic: Implications for US Death Investigation Systems",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 7,
+      "monthText": "July",
       "raw": "2021-07"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8495654/",
-    "publisher": "",
+    "publisher": "Am. J. Public Health",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2175,11 +2243,13 @@
   {
     "title": "E-cigarette, cigarette, and cannabis use patterns as a function of sexual identity in a sample of Southern California young adults",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 6,
+      "monthText": "June",
       "raw": "2021-06"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7889792/",
-    "publisher": "",
+    "publisher": "Addict Behav Rep",
     "authors": [
       {
         "firstName": "Madalyn M",
@@ -2221,11 +2291,13 @@
   {
     "title": "Tobacco Use Prevalence and Transitions From 2013 to 2018 Among Adults With a History of Cardiovascular Disease",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 6,
+      "monthText": "June",
       "raw": "2021-06"
     },
     "url": "https://www.ahajournals.org/doi/10.1161/JAHA.121.021118",
-    "publisher": "",
+    "publisher": "J. Am. Heart Assoc.",
     "authors": [
       {
         "firstName": "Lindsay M",
@@ -2272,7 +2344,9 @@
   {
     "title": "Progress, stasis, and regression through the hypertension care continuum: Longitudinal evidence from population-based cohort data in four populous middle-income countries",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 5,
+      "monthText": "May",
       "raw": "2021-05"
     },
     "url": "https://www.medrxiv.org/content/10.1101/2021.04.30.21256391v1.full-text",
@@ -2328,11 +2402,13 @@
   {
     "title": "COVID-19 and excess mortality in the United States: A county-level analysis",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 5,
+      "monthText": "May",
       "raw": "2021-05"
     },
     "url": "https://journals.plos.org/plosmedicine/article?id=10.1371%2Fjournal.pmed.1003571",
-    "publisher": "",
+    "publisher": "PLoS Med.",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2369,11 +2445,13 @@
   {
     "title": "Racial/Ethnic Differences in Associations of Non-cigarette Tobacco Product Use With Subsequent Initiation of Cigarettes in US Youths",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 5,
+      "monthText": "May",
       "raw": "2021-05"
     },
     "url": "https://pubmed.ncbi.nlm.nih.gov/32948872/",
-    "publisher": "",
+    "publisher": "Nicotine Tob. Res.",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2455,11 +2533,13 @@
   {
     "title": "Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 4,
+      "monthText": "April",
       "raw": "2021-04"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8120431/",
-    "publisher": "",
+    "publisher": "JMIR Public Health Surveill",
     "authors": [
       {
         "firstName": "Olubusola",
@@ -2506,11 +2586,13 @@
   {
     "title": "Assessing the Impact of the Covid-19 Pandemic on US Mortality: A County-Level Analysis",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 3,
+      "monthText": "March",
       "raw": "2021-03"
     },
     "url": "https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Session/30773",
-    "publisher": "",
+    "publisher": "medRxiv",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2547,11 +2629,13 @@
   {
     "title": "Obesity Progression Between Young Adulthood and Midlife and Incident Arthritis: A Retrospective Cohort Study of US Adults",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 3,
+      "monthText": "March",
       "raw": "2021-03"
     },
     "url": "https://diabetesjournals.org/care/article/41/5/1025/36577/Obesity-Progression-Between-Young-Adulthood-and",
-    "publisher": "",
+    "publisher": "Arthritis Care Res.",
     "authors": [
       {
         "firstName": "Kaitlyn M",
@@ -2603,11 +2687,13 @@
   {
     "title": "Association of Cigarette and Electronic Cigarette Use Patterns With Levels of Inflammatory and Oxidative Stress Biomarkers Among US Adults: Population Assessment of Tobacco and Health Study",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 2,
+      "monthText": "February",
       "raw": "2021-02"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8284843/",
-    "publisher": "",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2679,11 +2765,13 @@
   {
     "title": "Association of Coming Out as Lesbian, Gay, and Bisexual+ and Risk of Cigarette Smoking in a Nationally Representative Sample of Youth and Young Adults",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 1,
+      "monthText": "January",
       "raw": "2021-01"
     },
     "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2772183",
-    "publisher": "",
+    "publisher": "JAMA Pediatr.",
     "authors": [
       {
         "firstName": "Alyssa F",
@@ -2725,11 +2813,13 @@
   {
     "title": "Heart disease and stroke statistics—2021 update: a report from the American Heart Association",
     "date": {
-      "year": "2021",
+      "year": 2021,
+      "month": 1,
+      "monthText": "January",
       "raw": "2021"
     },
     "url": "https://search.proquest.com/openview/5152beedf397e274435ed058598ccf44/1?pq-origsite=gscholar&cbl=18750",
-    "publisher": "Am Heart Assoc",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "S S",
@@ -2760,11 +2850,13 @@
   {
     "title": "Increases in BMI and chronic pain for US adults in midlife, 1992 to 2016",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 12,
+      "monthText": "December",
       "raw": "2020-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7585155/",
-    "publisher": "",
+    "publisher": "SSM Popul Health",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2816,11 +2908,13 @@
   {
     "title": "Estimates of the Association of Dementia With US Mortality Levels Using Linked Survey and Mortality Records",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 12,
+      "monthText": "December",
       "raw": "2020-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7445631/",
-    "publisher": "",
+    "publisher": "JAMA Neurol.",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2862,11 +2956,13 @@
   {
     "title": "Declines in Electronic Cigarette Use Among US Youth in the Era of COVID-19—A Critical Opportunity to Stop Youth Vaping in Its Tracks",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 12,
+      "monthText": "December",
       "raw": "2020-12"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2773487",
-    "publisher": "American Medical Association",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Andrew C",
@@ -2878,11 +2974,13 @@
   {
     "title": "Association of Electronic Cigarette Use With Incident Respiratory Conditions Among US Adults From 2013 to 2018",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 11,
+      "monthText": "November",
       "raw": "2020-11"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2772829",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Wubin",
@@ -2934,11 +3032,13 @@
   {
     "title": "Association between country preparedness indicators and quality clinical care for cardiovascular disease risk factors in 44 lower- and middle-income countries: A multicountry analysis of survey data",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 11,
+      "monthText": "November",
       "raw": "2020-11"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7654799/",
-    "publisher": "",
+    "publisher": "PLoS Med.",
     "authors": [
       {
         "firstName": "Justine I",
@@ -3150,11 +3250,13 @@
   {
     "title": "Prevalence, Trends, and Distribution of Nicotine and Marijuana use in E-cigarettes among US adults: The Behavioral Risk Factor Surveillance System 2016–2018",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 10,
+      "monthText": "October",
       "raw": "2020-10"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8383272/",
-    "publisher": "Elsevier",
+    "publisher": "Prev. Med.",
     "authors": [
       {
         "firstName": "S M Iftekhar",
@@ -3236,11 +3338,13 @@
   {
     "title": "Trends in the Age of Cigarette Smoking Initiation Among Young Adults in the US From 2002 to 2018",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 10,
+      "monthText": "October",
       "raw": "2020-10"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7539122/",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Jessica L",
@@ -3292,11 +3396,13 @@
   {
     "title": "Trends in e-Cigarette Use in Adults in the United States, 2016-2018",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 10,
+      "monthText": "October",
       "raw": "2020-10"
     },
     "url": "https://www.ahajournals.org/doi/abs/10.1161/circ.146.suppl_1.10088",
-    "publisher": "",
+    "publisher": "JAMA Intern. Med.",
     "authors": [
       {
         "firstName": "Olufunmilayo H",
@@ -3338,11 +3444,13 @@
   {
     "title": "E-Cigarette Use Patterns and High-Risk Behaviors in Pregnancy: Behavioral Risk Factor Surveillance System, 2016-2018",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 8,
+      "monthText": "August",
       "raw": "2020-08"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8349302/",
-    "publisher": "Elsevier",
+    "publisher": "Am. J. Prev. Med.",
     "authors": [
       {
         "firstName": "Olufunmilayo H",
@@ -3424,11 +3532,13 @@
   {
     "title": "Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 8,
+      "monthText": "August",
       "raw": "2020-08"
     },
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/osp4.398",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Wubin",
@@ -3480,11 +3590,13 @@
   {
     "title": "Obesity and Incident Prescription Opioid Use in the U.S., 2000-2015",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 6,
+      "monthText": "June",
       "raw": "2020-06"
     },
     "url": "https://www.ajpmonline.org/article/S0749-3797(20)30043-X/fulltext",
-    "publisher": "Elsevier",
+    "publisher": "Am. J. Prev. Med.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -3521,11 +3633,13 @@
   {
     "title": "Alterations in Vascular Function Associated With the Use of Combustible and Electronic Cigarettes",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 5,
+      "monthText": "May",
       "raw": "2020-05"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7428567/",
-    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "publisher": "J. Am. Heart Assoc.",
     "authors": [
       {
         "firstName": "Jessica L",
@@ -3592,11 +3706,13 @@
   {
     "title": "Diabetes Prevalence and Its Relationship With Education, Wealth, and BMI in 29 Low- and Middle-Income Countries",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 4,
+      "monthText": "April",
       "raw": "2020-04"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085810/",
-    "publisher": "Am Diabetes Assoc",
+    "publisher": "Diabetes Care",
     "authors": [
       {
         "firstName": "Jacqueline A",
@@ -3818,11 +3934,13 @@
   {
     "title": "Association of body mass index and osteoarthritis with healthcare expenditures and utilization",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 4,
+      "monthText": "April",
       "raw": "2020-04"
     },
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/osp4.398",
-    "publisher": "",
+    "publisher": "Obes Sci Pract",
     "authors": [
       {
         "firstName": "Stephen S",
@@ -3864,11 +3982,13 @@
   {
     "title": "Association of Obesity With Prescription Opioids for Painful Conditions in Patients Seeking Primary Care in the US",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 4,
+      "monthText": "April",
       "raw": "2020-04"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2763785",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Andrew",
@@ -3915,11 +4035,13 @@
   {
     "title": "Changes in mental health, pain, and drug misuse since the mid-1990s: Is there a link?",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 2,
+      "monthText": "February",
       "raw": "2020-02"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064160/",
-    "publisher": "",
+    "publisher": "Soc. Sci. Med.",
     "authors": [
       {
         "firstName": "Dana A",
@@ -3941,11 +4063,13 @@
   {
     "title": "It's Absolutely Relative: The Effect of Age on the BMI-Mortality Relationship in Postmenopausal Women",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 1,
+      "monthText": "January",
       "raw": "2020-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6989046/",
-    "publisher": "Wiley",
+    "publisher": "Obesity",
     "authors": [
       {
         "firstName": "Hailey R",
@@ -4012,11 +4136,13 @@
   {
     "title": "Universal coverage but unmet need: National and regional estimates of attrition across the diabetes care continuum in Thailand",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 1,
+      "monthText": "January",
       "raw": "2020-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6961827/",
-    "publisher": "",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Lily D",
@@ -4068,11 +4194,13 @@
   {
     "title": "Heart disease and stroke statistics—2020 update: a report from the American Heart Association",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 1,
+      "monthText": "January",
       "raw": "2020"
     },
     "url": "https://search.proquest.com/openview/5152beedf397e274435ed058598ccf44/1?pq-origsite=gscholar&cbl=18750",
-    "publisher": "Am Heart Assoc",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "S H",
@@ -4103,11 +4231,13 @@
   {
     "title": "American Heart Association Council on E, prevention statistics C, stroke statistics S: heart disease and stroke statistics-2020 update: a report from the …",
     "date": {
-      "year": "2020",
+      "year": 2020,
+      "month": 1,
+      "monthText": "January",
       "raw": "2020"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4701612/",
-    "publisher": "",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "S S",
@@ -4138,11 +4268,13 @@
   {
     "title": "The role of flavors in vaping initiation and satisfaction among U.S. adults",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 12,
+      "monthText": "December",
       "raw": "2019-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6903386/",
-    "publisher": "Elsevier",
+    "publisher": "Addict. Behav.",
     "authors": [
       {
         "firstName": "Robyn L",
@@ -4224,11 +4356,13 @@
   {
     "title": "Association Between e-Cigarette Use and Depression in the Behavioral Risk Factor Surveillance System, 2016-2017",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 12,
+      "monthText": "December",
       "raw": "2019-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6902792/",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Olufunmilayo H",
@@ -4300,11 +4434,13 @@
   {
     "title": "Predictors of dental care use, unmet dental care need, and barriers to unmet need among women: results from NHANES, 2011 to 2016",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 12,
+      "monthText": "December",
       "raw": "2019-12"
     },
     "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jphd.12334",
-    "publisher": "",
+    "publisher": "J. Public Health Dent.",
     "authors": [
       {
         "firstName": "Avni",
@@ -4341,11 +4477,13 @@
   {
     "title": "Trends in Prescription Analgesic Use Among Adults With Musculoskeletal Conditions in the United States, 1999-2016",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 12,
+      "monthText": "December",
       "raw": "2019-12"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2757373",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Andrew",
@@ -4377,11 +4515,13 @@
   {
     "title": "Effects of Weight History on the Association Between Directly Measured Adiposity and Mortality in Older Adults",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 11,
+      "monthText": "November",
       "raw": "2019-11"
     },
     "url": "https://watermark.silverchair.com/glz144.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAuEwggLdBgkqhkiG9w0BBwagggLOMIICygIBADCCAsMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMk-f5zZpFs_s_92kRAgEQgIIClFKG0j8vovP64NQICQ57qMb4UVHoI_HAhg8Upnc6fFBUZ6rbrKK4PdBSICC09QQCDvDcbIVvpPjUmp7s5ALHV3n0-VBvFQDCGQkwtnOEH0GCNFMKsSwd_ED84dxO68TRlXHhJ4opL99DUpeSNOrYtj6OMVE3wEmVjm0nNc0LOy4hDLHdiQ46j3MwamR_FhgAabjedHXMbGGt-P3yvIBD6gFHjMp6Tdq9ibVI3azRLCPZB0ebJ1FMcKa069N7P2BI_JZC7wIn8FkWW4yV3BacZWqI7V1Ms94wmL6VOaV13o9YoWeeF3fkO5S2vZR1WCbVJcHvjhAmdqjgUNOgj3h4-rSdra8ejazr1J0khy2YPXnW84dstIPiFE_nXpMUMfnB5y8YoflmRpDM2mpSVFdqZXYanKSHnQuHwrlQg1wM8_YFYeSA9uqzmh5WihNyvJtQMyxWYDQ7JkKGNX4YN-xDKXN29Lu1HsDJ_xUn_pPnN0f0Twc5Fi4TI2Vi-FU94mOEhCFlXD29NWIzqODlW6iL7NlPbfgvv6vKYDIO_lM459hPTutka0XhogmNe7mZoiEEywUtqgrXfq_OAkNn_hq7uzJ4TL0QsONB1eyz7_s546jYd8P5BnAjTW1wW8xbqN3KRDiIFD1hoI8aeOQU5rTx_f6H-jXTVF4ZEQFiZcf1Km8re5AEbn20jl8isFNHlLY0BVU_r__GEDn4PVcmMBRBv8eVTMbz45KPqBoVk2q1EKUj9FpIUahzd0blktsXgHwjoA2YkA73QXHC-EE9BPm4hmQE_sxvAH5xW0bberjGw29O_2srmV1ncndrbMB1oWO3VRAUZXD-DT6_ZEJckW2qdKHcpLfuvXQAuYneSACJrCp4Nvs5cw",
-    "publisher": "academic.oup.com",
+    "publisher": "J. Gerontol. A Biol. Sci. Med. Sci.",
     "authors": [
       {
         "firstName": "Joshua F",
@@ -4413,11 +4553,13 @@
   {
     "title": "Growth curve modelling to determine distinct BMI trajectory groups in HIV-positive adults on antiretroviral therapy in South Africa",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 11,
+      "monthText": "November",
       "raw": "2019-11"
     },
     "url": "https://pubmed.ncbi.nlm.nih.gov/31577571/",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "AIDS",
     "authors": [
       {
         "firstName": "Alana T",
@@ -4479,11 +4621,13 @@
   {
     "title": "The Effects of Reverse Causality and Selective Attrition on the Relationship Between Body Mass Index and Mortality in Postmenopausal Women",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 10,
+      "monthText": "October",
       "raw": "2019-10"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6768808/",
-    "publisher": "academic.oup.com",
+    "publisher": "Am. J. Epidemiol.",
     "authors": [
       {
         "firstName": "Hailey R",
@@ -4555,11 +4699,13 @@
   {
     "title": "The contribution of obesity to prescription opioid use in the United States",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 10,
+      "monthText": "October",
       "raw": "2019-10"
     },
     "url": "https://journals.lww.com/pain/Fulltext/2019/10000/The_contribution_of_obesity_to_prescription_opioid.10.aspx",
-    "publisher": "",
+    "publisher": "Pain",
     "authors": [
       {
         "firstName": "Andrew",
@@ -4636,11 +4782,13 @@
   {
     "title": "Current and early life weight and associations with mortality in rheumatoid arthritis",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 9,
+      "monthText": "September",
       "raw": "2019-09"
     },
     "url": "https://pubmed.ncbi.nlm.nih.gov/30719967/",
-    "publisher": "europepmc.org",
+    "publisher": "Clin. Exp. Rheumatol.",
     "authors": [
       {
         "firstName": "Joshua F",
@@ -4682,11 +4830,13 @@
   {
     "title": "Socioeconomic and Racial/Ethnic Differences in E-Cigarette Uptake Among Cigarette Smokers: Longitudinal Analysis of the Population Assessment of Tobacco and Health (PATH) Study",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 9,
+      "monthText": "September",
       "raw": "2019-09"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6751515/",
-    "publisher": "",
+    "publisher": "Nicotine Tob. Res.",
     "authors": [
       {
         "firstName": "Alyssa F",
@@ -4708,11 +4858,13 @@
   {
     "title": "The state of hypertension care in 44 low-income and middle-income countries: a cross-sectional study of nationally representative individual-level data from 1·1 million adults",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 8,
+      "monthText": "August",
       "raw": "2019-08"
     },
     "url": "https://pubmed.ncbi.nlm.nih.gov/31327566/",
-    "publisher": "Elsevier",
+    "publisher": "Lancet",
     "authors": [
       {
         "firstName": "Pascal",
@@ -4934,11 +5086,13 @@
   {
     "title": "Association Between E-Cigarette Use and Cardiovascular Disease Among Never and Current Combustible-Cigarette Smokers",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 8,
+      "monthText": "August",
       "raw": "2019-08"
     },
     "url": "https://www.amjmed.com/article/S0002-9343(19)30211-6/fulltext",
-    "publisher": "",
+    "publisher": "Am. J. Med.",
     "authors": [
       {
         "firstName": "Albert D",
@@ -5005,11 +5159,13 @@
   {
     "title": "Consumption of Fruits and Vegetables Among Individuals 15 Years and Older in 28 Low- and Middle-Income Countries",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 7,
+      "monthText": "July",
       "raw": "2019-07"
     },
     "url": "https://academic.oup.com/jn/article/149/7/1252/5510069?login=false",
-    "publisher": "",
+    "publisher": "J. Nutr.",
     "authors": [
       {
         "firstName": "Sarah M",
@@ -5146,11 +5302,13 @@
   {
     "title": "Assessment of obesity prevalence and validity of obesity diagnoses coded in claims data for selected surgical populations: A retrospective, observational study",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 7,
+      "monthText": "July",
       "raw": "2019-07"
     },
     "url": "https://diabetesjournals.org/care/article/41/5/1025/36577/Obesity-Progression-Between-Young-Adulthood-and",
-    "publisher": "",
+    "publisher": "Medicine",
     "authors": [
       {
         "firstName": "Eric M",
@@ -5197,11 +5355,13 @@
   {
     "title": "Body mass index and insulin use as identifiers of high‐cost patients with type 2 diabetes: A retrospective analysis of electronic health records linked to insurance claims data",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 6,
+      "monthText": "June",
       "raw": "2019-06"
     },
     "url": "https://dom-pubs.onlinelibrary.wiley.com/doi/abs/10.1111/dom.13671",
-    "publisher": "Wiley",
+    "publisher": "Diabetes Obes. Metab.",
     "authors": [
       {
         "firstName": "Stephen S",
@@ -5243,11 +5403,13 @@
   {
     "title": "Trends in prescription pain management among us adults with arthritis or back pain, 1999-2014",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 4,
+      "monthText": "April",
       "raw": "2019-04"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964490/",
-    "publisher": "Elsevier",
+    "publisher": "Osteoarthritis Cartilage",
     "authors": [
       {
         "firstName": "A",
@@ -5274,11 +5436,13 @@
   {
     "title": "Is the association of body mass index with opioid use mediated by number of painful joints or depressive symptoms: the multicenter osteoarthritis study",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 4,
+      "monthText": "April",
       "raw": "2019-04"
     },
     "url": "https://scholar.google.com/scholar?cluster=11429746408263036358&hl=en&oi=scholarr",
-    "publisher": "Elsevier",
+    "publisher": "Osteoarthritis Cartilage",
     "authors": [
       {
         "firstName": "L C",
@@ -5335,11 +5499,13 @@
   {
     "title": "Health system performance for people with diabetes in 28 low- and middle-income countries: A cross-sectional study of nationally representative surveys",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 3,
+      "monthText": "March",
       "raw": "2019-03"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396901/",
-    "publisher": "Public Library of Science (PLoS)",
+    "publisher": "PLoS Med.",
     "authors": [
       {
         "firstName": "Jennifer",
@@ -5536,11 +5702,13 @@
   {
     "title": "Association of Electronic Cigarette Use With Subsequent Initiation of Tobacco Cigarettes in US Youths",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 2,
+      "monthText": "February",
       "raw": "2019-02"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2723425",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Kaitlyn M",
@@ -5582,11 +5750,13 @@
   {
     "title": "E-cigarette initiation and associated changes in smoking cessation and reduction: the Population Assessment of Tobacco and Health Study, 2013–2015",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 1,
+      "monthText": "January",
       "raw": "2019-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6317439/",
-    "publisher": "BMJ Publishing Group Ltd",
+    "publisher": "Tob. Control",
     "authors": [
       {
         "firstName": "Kaitlyn M",
@@ -5638,11 +5808,13 @@
   {
     "title": "Lifestyle and socio-economic inequalities in diabetes prevalence in South Africa: A decomposition analysis",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 1,
+      "monthText": "January",
       "raw": "2019-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6353159/",
-    "publisher": "",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Chipo",
@@ -5674,11 +5846,13 @@
   {
     "title": "Heart disease and stroke statistics—2019 update: a report from the American Heart Association",
     "date": {
-      "year": "2019",
+      "year": 2019,
+      "month": 1,
+      "monthText": "January",
       "raw": "2019"
     },
     "url": "https://search.proquest.com/openview/5152beedf397e274435ed058598ccf44/1?pq-origsite=gscholar&cbl=18750",
-    "publisher": "Am Heart Assoc",
+    "publisher": "Circulation",
     "authors": [
       {
         "firstName": "E J",
@@ -5709,11 +5883,13 @@
   {
     "title": "Effect of Diabetes on Life Expectancy in the United States by Race and Ethnicity",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 12,
+      "monthText": "December",
       "raw": "2018-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6550350/",
-    "publisher": "",
+    "publisher": "Biodemography Soc. Biol.",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -5740,11 +5916,13 @@
   {
     "title": "Patterns of weight change associated with disease diagnosis in a national sample",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 11,
+      "monthText": "November",
       "raw": "2018-11"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6261267/",
-    "publisher": "",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Yana C",
@@ -5766,11 +5944,13 @@
   {
     "title": "Association of Obesity With Mortality Over 24 Years of Weight History: Findings From the Framingham Heart Study",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 11,
+      "monthText": "November",
       "raw": "2018-11"
     },
     "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2714501",
-    "publisher": "",
+    "publisher": "JAMA Netw Open",
     "authors": [
       {
         "firstName": "Hanfei",
@@ -5797,11 +5977,13 @@
   {
     "title": "Prevalence, incidence, predictors, treatment, and control of hypertension among HIV-positive adults on antiretroviral treatment in public sector treatment programs in South Africa",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 10,
+      "monthText": "October",
       "raw": "2018-10"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169897/",
-    "publisher": "journals.plos.org",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Alana T",
@@ -5868,11 +6050,13 @@
   {
     "title": "Stratified Probabilistic Bias Analysis for Body Mass Index-related Exposure Misclassification in Postmenopausal Women",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 9,
+      "monthText": "September",
       "raw": "2018-09"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6481627/",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "Epidemiology",
     "authors": [
       {
         "firstName": "Hailey R",
@@ -5964,11 +6148,13 @@
   {
     "title": "Representation of obese participants in obesity-related cancer randomized trials",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 7,
+      "monthText": "July",
       "raw": "2018-07"
     },
     "url": "https://www.sciencedirect.com/science/article/pii/S092375341932099X",
-    "publisher": "",
+    "publisher": "Ann. Oncol.",
     "authors": [
       {
         "firstName": "E",
@@ -5990,11 +6176,13 @@
   {
     "title": "Electronic Cigarette Use Prevalence, Associated Factors, and Pattern by Cigarette Smoking Status in the United States From NHANES (National Health and Nutrition Examination Survey) 2013-2014",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 7,
+      "monthText": "July",
       "raw": "2018-07"
     },
     "url": "https://www.ahajournals.org/doi/full/10.1161/JAHA.117.008178",
-    "publisher": "",
+    "publisher": "J. Am. Heart Assoc.",
     "authors": [
       {
         "firstName": "Rana M",
@@ -6066,11 +6254,13 @@
   {
     "title": "Prevalence and Determinants of Engagement with Obesity Care in the United States",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 5,
+      "monthText": "May",
       "raw": "2018-05"
     },
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22173",
-    "publisher": "",
+    "publisher": "Obesity",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6122,11 +6312,13 @@
   {
     "title": "Obesity Progression Between Young Adulthood and Midlife and Incident Diabetes: A Retrospective Cohort Study of U.S. Adults",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 5,
+      "monthText": "May",
       "raw": "2018-05"
     },
     "url": "https://diabetesjournals.org/care/article/41/5/1025/36577/Obesity-Progression-Between-Young-Adulthood-and",
-    "publisher": "",
+    "publisher": "Diabetes Care",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6178,11 +6370,13 @@
   {
     "title": "Electronic Cigarette Prevalence and Patterns of Use in Adults with a History of Cardiovascular Disease in the United States",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 4,
+      "monthText": "April",
       "raw": "2018-04"
     },
     "url": "https://www.ahajournals.org/doi/full/10.1161/JAHA.117.007602",
-    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "publisher": "J. Am. Heart Assoc.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6229,11 +6423,13 @@
   {
     "title": "Is BMI a valid measure of obesity in postmenopausal women?",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 3,
+      "monthText": "March",
       "raw": "2018-03"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5821529/",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "Menopause",
     "authors": [
       {
         "firstName": "Hailey R",
@@ -6260,11 +6456,13 @@
   {
     "title": "Understanding the determinants of hemoglobin and iron status: adolescent-adult women comparisons in SANHANES-1",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 1,
+      "monthText": "January",
       "raw": "2018-01"
     },
     "url": "https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13528",
-    "publisher": "Wiley",
+    "publisher": "Ann. N. Y. Acad. Sci.",
     "authors": [
       {
         "firstName": "Zandile J",
@@ -6316,11 +6514,13 @@
   {
     "title": "The role of obesity in exceptionally slow US mortality improvement",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 1,
+      "monthText": "January",
       "raw": "2018-01"
     },
     "url": "http://crr.bc.edu/wp-content/uploads/2014/01/IB_14-2.pdf",
-    "publisher": "",
+    "publisher": "Proc. Natl. Acad. Sci. U. S. A.",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -6342,11 +6542,13 @@
   {
     "title": "Health Systems Performance for Diabetes in 25 Low-and Middle-Income Countries (LMICs), 2005–2016",
     "date": {
-      "year": "2018",
+      "year": 2018,
+      "month": 1,
+      "monthText": "January",
       "raw": "2018"
     },
     "url": "https://diabetesjournals.org/diabetes/article/67/Supplement_1/1511-P/54750",
-    "publisher": "Am Diabetes Assoc",
+    "publisher": "Diabetes",
     "authors": [
       {
         "name": "Manne-Goehler",
@@ -6397,11 +6599,13 @@
   {
     "title": "Prevalence and unmet need for diabetes care across the care continuum in a national sample of South African adults: Evidence from the SANHANES-1, 2011-2012",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 10,
+      "monthText": "October",
       "raw": "2017-10"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624573/",
-    "publisher": "",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6463,11 +6667,13 @@
   {
     "title": "The contribution of rising adiposity to the increasing prevalence of diabetes in the United States",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 8,
+      "monthText": "August",
       "raw": "2017-08"
     },
     "url": "https://www.sciencedirect.com/science/article/pii/S0091743517301913",
-    "publisher": "",
+    "publisher": "Prev. Med.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6484,11 +6690,13 @@
   {
     "title": "Quantifying unmet need for hypertension care in South Africa through a care cascade: evidence from the SANHANES, 2011-2012",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 8,
+      "monthText": "August",
       "raw": "2017-08"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5656122/",
-    "publisher": "",
+    "publisher": "BMJ Glob Health",
     "authors": [
       {
         "firstName": "Kaitlyn M",
@@ -6530,11 +6738,13 @@
   {
     "title": "Weight History and All-Cause and Cause-Specific Mortality in Three Prospective Cohort Studies",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 5,
+      "monthText": "May",
       "raw": "2017-05"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5518318/",
-    "publisher": "",
+    "publisher": "Ann. Intern. Med.",
     "authors": [
       {
         "firstName": "Edward",
@@ -6576,11 +6786,13 @@
   {
     "title": "Prevalence and trends in lifetime obesity in the US, 1988–2014",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 1,
+      "monthText": "January",
       "raw": "2017"
     },
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22173",
-    "publisher": "Elsevier",
+    "publisher": "Am. J. Prev. Med.",
     "authors": [
       {
         "firstName": "A",
@@ -6602,11 +6814,13 @@
   {
     "title": "Deaths Attributable to Diabetes in the United States: Comparison of Data Sources and Estimation Approaches",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 1,
+      "monthText": "January",
       "raw": "2017-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5266275/",
-    "publisher": "",
+    "publisher": "PLoS One",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6623,11 +6837,13 @@
   {
     "title": "The 'obesity paradox'may not be a paradox at all",
     "date": {
-      "year": "2017",
+      "year": 2017,
+      "month": 1,
+      "monthText": "January",
       "raw": "2017"
     },
     "url": "https://www.nature.com/articles/ijo201799",
-    "publisher": "nature.com",
+    "publisher": "Int. J. Obes.",
     "authors": [
       {
         "firstName": "H R",
@@ -6644,11 +6860,13 @@
   {
     "title": "Validating a summary measure of weight history for modeling the health consequences of obesity",
     "date": {
-      "year": "2016",
+      "year": 2016,
+      "month": 12,
+      "monthText": "December",
       "raw": "2016-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5142761/",
-    "publisher": "",
+    "publisher": "Ann. Epidemiol.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6665,11 +6883,13 @@
   {
     "title": "How Dangerous Is Obesity? Issues in Measurement and Interpretation",
     "date": {
-      "year": "2016",
+      "year": 2016,
+      "month": 12,
+      "monthText": "December",
       "raw": "2016-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5484337/",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "Popul. Dev. Rev.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6686,11 +6906,13 @@
   {
     "title": "Diabetes diagnosis and care in sub-Saharan Africa: pooled analysis of individual data from 12 countries",
     "date": {
-      "year": "2016",
+      "year": 2016,
+      "month": 11,
+      "monthText": "November",
       "raw": "2016-11"
     },
     "url": "https://www.thelancet.com/journals/landia/article/PIIS2213-8587(16)30181-4/fulltext",
-    "publisher": "Elsevier",
+    "publisher": "Lancet Diabetes Endocrinol",
     "authors": [
       {
         "firstName": "Jennifer",
@@ -6857,11 +7079,13 @@
   {
     "title": "How smoking affects the proportion of deaths attributable to obesity: assessing the role of relative risks and weight distributions",
     "date": {
-      "year": "2016",
+      "year": 2016,
+      "month": 2,
+      "monthText": "February",
       "raw": "2016-02"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4769428/",
-    "publisher": "",
+    "publisher": "BMJ Open",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6878,11 +7102,13 @@
   {
     "title": "Revealing the burden of obesity using weight histories",
     "date": {
-      "year": "2016",
+      "year": 2016,
+      "month": 1,
+      "monthText": "January",
       "raw": "2016-01"
     },
     "url": "https://scholar.google.com/scholar?cluster=2518183858415132818&hl=en&oi=scholarr",
-    "publisher": "",
+    "publisher": "Proc. Natl. Acad. Sci. U. S. A.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6899,11 +7125,13 @@
   {
     "title": "Smoking and reverse causation create an obesity paradox in cardiovascular disease",
     "date": {
-      "year": "2015",
+      "year": 2015,
+      "month": 12,
+      "monthText": "December",
       "raw": "2015-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4701612/",
-    "publisher": "",
+    "publisher": "Obesity",
     "authors": [
       {
         "firstName": "Andrew",
@@ -6920,11 +7148,13 @@
   {
     "title": "Effects of categorization and self-report bias on estimates of the association between obesity and mortality",
     "date": {
-      "year": "2015",
+      "year": 2015,
+      "month": 12,
+      "monthText": "December",
       "raw": "2015-12"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4688238/",
-    "publisher": "",
+    "publisher": "Ann. Epidemiol.",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -6946,11 +7176,13 @@
   {
     "title": "Weight Loss, the Obesity Paradox, and the Risk of Death in Rheumatoid Arthritis",
     "date": {
-      "year": "2015",
+      "year": 2015,
+      "month": 7,
+      "monthText": "July",
       "raw": "2015-07"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826750/",
-    "publisher": "",
+    "publisher": "Arthritis Rheumatol",
     "authors": [
       {
         "firstName": "Joshua F",
@@ -7002,11 +7234,13 @@
   {
     "title": "Factors responsible for mortality variation in the United States: A latent variable analysis",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 7,
+      "monthText": "July",
       "raw": "2014-07"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4238308/",
-    "publisher": "",
+    "publisher": "Demogr. Res.",
     "authors": [
       {
         "firstName": "Christopher",
@@ -7028,11 +7262,13 @@
   {
     "title": "Obesity paradox: conditioning on disease enhances biases in estimating the mortality risks of obesity",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 5,
+      "monthText": "May",
       "raw": "2014-05"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3984024/",
-    "publisher": "",
+    "publisher": "Epidemiology",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -7049,11 +7285,13 @@
   {
     "title": "Using maximum weight to redefine body mass index categories in studies of the mortality risks of obesity",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 3,
+      "monthText": "March",
       "raw": "2014-03"
     },
     "url": "https://pophealthmetrics.biomedcentral.com/articles/10.1186/1478-7954-12-6",
-    "publisher": "",
+    "publisher": "Popul. Health Metr.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -7065,11 +7303,13 @@
   {
     "title": "Projecting the effect of changes in smoking and obesity on future life expectancy in the United States",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 2,
+      "monthText": "February",
       "raw": "2014-02"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4495773/",
-    "publisher": "",
+    "publisher": "Demography",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -7096,11 +7336,13 @@
   {
     "title": "How will more obesity and less smoking affect life expectancy?",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 1,
+      "monthText": "January",
       "raw": "2014-01"
     },
     "url": "http://crr.bc.edu/wp-content/uploads/2014/01/IB_14-2.pdf",
-    "publisher": "",
+    "publisher": "Center for Retirement Research at Boston College",
     "authors": [
       {
         "firstName": "S H",
@@ -7127,11 +7369,13 @@
   {
     "title": "The dynamics of diabetes among birth cohorts in the US",
     "date": {
-      "year": "2014",
+      "year": 2014,
+      "month": 1,
+      "monthText": "January",
       "raw": "2014"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3964490/",
-    "publisher": "Am Diabetes Assoc",
+    "publisher": "Diabetes Care",
     "authors": [
       {
         "firstName": "E",
@@ -7153,11 +7397,13 @@
   {
     "title": "Re: “Obesity and US Mortality Risk Over the Adult Life Course”",
     "date": {
-      "year": "2013",
+      "year": 2013,
+      "month": 6,
+      "monthText": "June",
       "raw": "2013-06"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3988448/",
-    "publisher": "Oxford Academic",
+    "publisher": "Am. J. Epidemiol.",
     "authors": [
       {
         "firstName": "Neil K",
@@ -7174,11 +7420,13 @@
   {
     "title": "Mortality and excess risk in US adults with pre-diabetes and diabetes: a comparison of two nationally representative cohorts, 1988–2006",
     "date": {
-      "year": "2013",
+      "year": 2013,
+      "month": 2,
+      "monthText": "February",
       "raw": "2013-02"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3637637/",
-    "publisher": "Springer",
+    "publisher": "Popul. Health Metr.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -7195,11 +7443,13 @@
   {
     "title": "Population Change among the Elderly: International Patterns",
     "date": {
-      "year": "2013",
+      "year": 2013,
+      "month": 2,
+      "monthText": "February",
       "raw": "2013-02"
     },
     "url": "https://scholar.google.com/scholar?btnI=1&cluster=33480188602358702&hl=en&oi=bibs",
-    "publisher": "ncbi.nlm.nih.gov",
+    "publisher": "Popul. Dev. Rev.",
     "authors": [
       {
         "firstName": "Andrew",
@@ -7216,11 +7466,13 @@
   {
     "title": "Modeling obesity histories in cohort analyses of health and mortality",
     "date": {
-      "year": "2013",
+      "year": 2013,
+      "month": 1,
+      "monthText": "January",
       "raw": "2013-01"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3870658/",
-    "publisher": "",
+    "publisher": "Epidemiology",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -7242,11 +7494,13 @@
   {
     "title": "Sources of Population Aging in More and Less Developed Countries",
     "date": {
-      "year": "2012",
+      "year": 2012,
+      "month": 6,
+      "monthText": "June",
       "raw": "2012-06"
     },
     "url": "https://paa.confex.com/paa/2017/meetingapp.cgi/Session/1629",
-    "publisher": "",
+    "publisher": "Popul. Dev. Rev.",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -7263,11 +7517,13 @@
   {
     "title": "Contribution of obesity to international differences in life expectancy",
     "date": {
-      "year": "2011",
+      "year": 2011,
+      "month": 11,
+      "monthText": "November",
       "raw": "2011-11"
     },
     "url": "https://journals.lww.com/pain/Fulltext/2019/10000/The_contribution_of_obesity_to_prescription_opioid.10.aspx",
-    "publisher": "",
+    "publisher": "Am. J. Public Health",
     "authors": [
       {
         "firstName": "Samuel H",
@@ -7284,11 +7540,13 @@
   {
     "title": "Net benefits: a multicountry analysis of observational data examining associations between insecticide-treated mosquito nets and health outcomes",
     "date": {
-      "year": "2011",
+      "year": 2011,
+      "month": 9,
+      "monthText": "September",
       "raw": "2011-09"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3167799/",
-    "publisher": "journals.plos.org",
+    "publisher": "PLoS Med.",
     "authors": [
       {
         "firstName": "Stephen S",
@@ -7330,11 +7588,13 @@
   {
     "title": "Body-mass index and mortality among white adults",
     "date": {
-      "year": "2011",
+      "year": 2011,
+      "month": 2,
+      "monthText": "February",
       "raw": "2011-02"
     },
     "url": "https://midus.wisc.edu/findings/pdfs/2377.pdf",
-    "publisher": "",
+    "publisher": "N. Engl. J. Med.",
     "authors": [
       {
         "firstName": "A C",
@@ -7346,11 +7606,13 @@
   {
     "title": "Orphanhood and the Living Arrangements of Children in Sub-Saharan Africa",
     "date": {
-      "year": "2010",
+      "year": 2010,
+      "month": 12,
+      "monthText": "December",
       "raw": "2010-12"
     },
     "url": "https://openknowledge.worldbank.org/bitstream/handle/10986/4203/WPS4889.pdf?isAllowed=y&sequence=1",
-    "publisher": "Elsevier",
+    "publisher": "World Dev.",
     "authors": [
       {
         "firstName": "Kathleen",

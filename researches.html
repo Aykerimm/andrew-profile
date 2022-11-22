@@ -2,9 +2,7 @@
 layout: default
 pageurl: /researches
 ---
-<center>
-    <p class="title">Researches</p>
-</center>
+<p class="title">Researches</p>
 
 <style>
     ul {
@@ -25,31 +23,33 @@ pageurl: /researches
     </ul>
 </div>
 
-<center>
-    <p class="title">Publications</p>
-</center>
+<p class="title">Publications</p>
 
-<ul>
-{% for research in site.data.researches_zotero %}
-    <li class="research">
-        <a class="research__url" href="{{ research.url }}">{{ research.title }}</a>
-        <p class="research__authors">
-            {%- for author in research.authors -%}
-                {%- if forloop.last and research.authors.size != 1 -%}
-                    &nbsp;and
-                {%- endif -%}
-                <span class="research__author{% if author.fullName contains site.data.author.name or author.fullName contains "Stokes" or author.fullName contains "Andrew" %} research__author-self{% endif %}">
-                    {{ author.fullName }}</span>
-                {%- if forloop.last != true -%}
-                    ,
-                {%- else -%}
-                    .
-                {%- endif -%}
-            {%- endfor -%}
-        </p>
-        <p class="research__meta">
-            <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.raw }}
-        </p>
-    </li>
+{% assign researches_by_group = site.data.researches_zotero | group_by: "date.year"%}
+{% for year_group in researches_by_group %}
+    <ul>
+        <p class="subtitle">{{year_group.name}}</p>
+        {% for research in year_group.items %}
+        <li class="research">
+            <a class="research__url" href="{{ research.url }}">{{ research.title }}</a>
+            <p class="research__authors">
+                {%- for author in research.authors -%}
+                    {%- if forloop.last and research.authors.size != 1 -%}
+                        &nbsp;and
+                    {%- endif -%}
+                    <span class="research__author{% if author.fullName contains site.data.author.name or author.fullName contains "Stokes" or author.fullName contains "Andrew" %} research__author-self{% endif %}">
+                        {{ author.fullName }}</span>
+                    {%- if forloop.last != true -%}
+                        ,
+                    {%- else -%}
+                        .
+                    {%- endif -%}
+                {%- endfor -%}
+            </p>
+            <p class="research__meta">
+                <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.raw }}
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
 {% endfor %}
-</ul>

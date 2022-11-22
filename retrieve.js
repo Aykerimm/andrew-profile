@@ -1,9 +1,11 @@
 const old = require("./_data/researches.json");
 // const zotero = require('./researches_zotero.json');
 const l = require("./levenshtein");
-
+const fs = require("fs");
 require("dotenv").config();
 const axios = require("axios");
+
+const ZOTERO_DATA_OUTPUT = process.env.ZOTERO_DATA_OUTPUT || './_data/researches_zotero.json';
 
 const getNextLink = (linkHeader) => {
   if (linkHeader && linkHeader.indexOf('rel="next"') > 0) {
@@ -67,12 +69,27 @@ const getName = (author) => {
 };
 
 getFromZotero().then((zotero) => {
+
+  try {
+    fs.writeFileSync('./researches_zotero.json', JSON.stringify(zotero, null, 2));
+    // file written successfully
+  } catch (err) {
+    console.log("File write error: zotero api result", err);
+  }
+  
   const result = zotero.filter(r=>r.data.title && r.data.creators && r.data.title !== '' && r.data.creators.length > 0).map((r) => {
     const title = r.data.title || '';
     const authors = r.data.creators.map(getName) || [];
 
+    const d = new Date(r.data.date);
+    const formatMonth = new Intl.DateTimeFormat('en', {
+      month: 'long',
+    });
+    
     const date = {
-      year: r.data.date.split("-")[0],
+      year: d.getFullYear(),
+      month: d.getMonth() + 1,
+      monthText: formatMonth.format(d),
       raw: r.data.date,
     };
 
@@ -87,7 +104,9 @@ getFromZotero().then((zotero) => {
     });
     const url = old[i].paper.url;
     let publisher = "";
-    if (r.data.extra.length !== 0) {
+    if (r.data.publicationTitle && r.data.publicationTitle.length > 0) {
+      publisher = r.data.publicationTitle;
+    } else if (r.data.extra.length !== 0) {
       const [_, p] = r.data.extra.split(":");
       if (p) {
         publisher = p.trim();
@@ -115,5 +134,9 @@ getFromZotero().then((zotero) => {
     return 0;
   });
 
-  console.log(JSON.stringify(result, null, 2));
+  try {
+    fs.writeFileSync(ZOTERO_DATA_OUTPUT, JSON.stringify(result, null, 2))
+  } catch (err) {
+    console.log(err);
+  }
 });
