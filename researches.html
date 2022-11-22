@@ -6,11 +6,11 @@ pageurl: /researches
 
 <style>
     ul {
-        text-align: justify;
+        /* text-align: justify; */
     }
 </style>
 <div class="researches__description">
-    I am a demographer and sociologist with interests in:
+    <p>I am a demographer and sociologist with interests in:</p>
     <ul>
         <li>Mortality and cause of death</li>
         <li>Covid-19 and excess mortality </li>
@@ -47,7 +47,7 @@ pageurl: /researches
                 {%- endfor -%}
             </p>
             <p class="research__meta">
-                <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.raw }}
+                <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.monthText }}
             </p>
         </li>
         {% endfor %}

@@ -64,7 +64,7 @@ const getName = (author) => {
 
   if (fullName.toLowerCase().match(/(.*andrew.*stokes)|(.*a.*stokes)/)) {
     author.isMe = true;
-    fullName = "Andrew C Stokes";
+    fullName = "Andrew C. Stokes";
   }
 
   author.fullName = fullName;
