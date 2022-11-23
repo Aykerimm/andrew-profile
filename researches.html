@@ -46,6 +46,7 @@ pageurl: /researches
         <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
     </p>
 </li>
+{% endfor %}
 
 <p class="title">Publications</p>
 
@@ -79,4 +80,3 @@ pageurl: /researches
 {% endfor %}
 
 
-{% endfor %}
