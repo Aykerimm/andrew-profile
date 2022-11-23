@@ -22,6 +22,30 @@ pageurl: /researches
         <li>Causal inference</li>
     </ul>
 </div>
+<br>
+<p class="title">Preprints</p>
+
+{% for research in site.data.preprints %}
+<li class="research">
+    <a class="research__url" href="{{ research.url }}">{{ research.title }}</a>
+    <p class="research__authors">
+        {%- for author in research.authors -%}
+            {%- if forloop.last and research.authors.size != 1 -%}
+                &nbsp;and
+            {%- endif -%}
+            <span class="research__author{% if author.isMe  %} research__author-self{% endif %}">
+                {{ author.fullName }}</span>
+            {%- if forloop.last != true -%}
+                ,
+            {%- else -%}
+                .
+            {%- endif -%}
+        {%- endfor -%}
+    </p>
+    <p class="research__meta">
+        <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
+    </p>
+</li>
 
 <p class="title">Publications</p>
 
@@ -54,28 +78,5 @@ pageurl: /researches
     </ul>
 {% endfor %}
 
-<br>
-<p class="title">Preprints</p>
 
-{% for research in site.data.preprints %}
-<li class="research">
-    <a class="research__url" href="{{ research.url }}">{{ research.title }}</a>
-    <p class="research__authors">
-        {%- for author in research.authors -%}
-            {%- if forloop.last and research.authors.size != 1 -%}
-                &nbsp;and
-            {%- endif -%}
-            <span class="research__author{% if author.isMe  %} research__author-self{% endif %}">
-                {{ author.fullName }}</span>
-            {%- if forloop.last != true -%}
-                ,
-            {%- else -%}
-                .
-            {%- endif -%}
-        {%- endfor -%}
-    </p>
-    <p class="research__meta">
-        <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
-    </p>
-</li>
 {% endfor %}
