@@ -1,5 +1,35 @@
 [
   {
+    "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota",
+    "date": {
+      "year": 2022,
+      "month": 11,
+      "monthText": "November",
+      "raw": "2022/11/01"
+    },
+    "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
+    "publisher": "American Journal of Preventive Medicine",
+    "authors": [
+      {
+        "name": "Elizabeth Wrigley-Field",
+        "fullName": "Elizabeth Wrigley-Field"
+      },
+      {
+        "name": "Kaitlyn M. Berry",
+        "fullName": "Kaitlyn M. Berry"
+      },
+      {
+        "name": "Andrew C. Stokes",
+        "isMe": true,
+        "fullName": "Andrew C. Stokes"
+      },
+      {
+        "name": "Jonathon P. Leider",
+        "fullName": "Jonathon P. Leider"
+      }
+    ]
+  },
+  {
     "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
     "date": {
       "year": 2022,
@@ -8,7 +38,7 @@
       "raw": "2022-08"
     },
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8292448/",
-    "publisher": "Tob. Control",
+    "publisher": "Tobacco Control",
     "authors": [
       {
         "firstName": "Alyssa F",
@@ -49,65 +79,6 @@
     ]
   },
   {
-    "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
-    "date": {
-      "year": 2022,
-      "month": 7,
-      "monthText": "July",
-      "raw": "2022-07"
-    },
-    "url": "https://www.science.org/doi/10.1126/scitranslmed.abi9522",
-    "publisher": "Sci. Transl. Med.",
-    "authors": [
-      {
-        "firstName": "Nicole",
-        "lastName": "Mauer",
-        "fullName": "Nicole Mauer"
-      },
-      {
-        "firstName": "Pascal",
-        "lastName": "Geldsetzer",
-        "fullName": "Pascal Geldsetzer"
-      },
-      {
-        "firstName": "Jennifer",
-        "lastName": "Manne-Goehler",
-        "fullName": "Jennifer Manne-Goehler"
-      },
-      {
-        "firstName": "Justine I",
-        "lastName": "Davies",
-        "fullName": "Justine I Davies"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "Margaret",
-        "lastName": "McConnell",
-        "fullName": "Margaret McConnell"
-      },
-      {
-        "firstName": "Mohammed K",
-        "lastName": "Ali",
-        "fullName": "Mohammed K Ali"
-      },
-      {
-        "firstName": "Volker",
-        "lastName": "Winkler",
-        "fullName": "Volker Winkler"
-      },
-      {
-        "firstName": "Nikkil",
-        "lastName": "Sudharsanan",
-        "fullName": "Nikkil Sudharsanan"
-      }
-    ]
-  },
-  {
     "title": "Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020",
     "date": {
       "year": 2022,
@@ -116,7 +87,7 @@
       "raw": "2022-07"
     },
     "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2791682",
-    "publisher": "JAMA Intern. Med.",
+    "publisher": "JAMA Internal Medicine",
     "authors": [
       {
         "firstName": "Ruijia",
@@ -197,6 +168,159 @@
         "firstName": "Craig S",
         "lastName": "Ross",
         "fullName": "Craig S Ross"
+      }
+    ]
+  },
+  {
+    "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
+    "date": {
+      "year": 2022,
+      "month": 7,
+      "monthText": "July",
+      "raw": "2022-07"
+    },
+    "url": "https://www.science.org/doi/10.1126/scitranslmed.abi9522",
+    "publisher": "Science Translational Medicine",
+    "authors": [
+      {
+        "firstName": "Nicole",
+        "lastName": "Mauer",
+        "fullName": "Nicole Mauer"
+      },
+      {
+        "firstName": "Pascal",
+        "lastName": "Geldsetzer",
+        "fullName": "Pascal Geldsetzer"
+      },
+      {
+        "firstName": "Jennifer",
+        "lastName": "Manne-Goehler",
+        "fullName": "Jennifer Manne-Goehler"
+      },
+      {
+        "firstName": "Justine I",
+        "lastName": "Davies",
+        "fullName": "Justine I Davies"
+      },
+      {
+        "firstName": "Andrew C",
+        "lastName": "Stokes",
+        "isMe": true,
+        "fullName": "Andrew C. Stokes"
+      },
+      {
+        "firstName": "Margaret",
+        "lastName": "McConnell",
+        "fullName": "Margaret McConnell"
+      },
+      {
+        "firstName": "Mohammed K",
+        "lastName": "Ali",
+        "fullName": "Mohammed K Ali"
+      },
+      {
+        "firstName": "Volker",
+        "lastName": "Winkler",
+        "fullName": "Volker Winkler"
+      },
+      {
+        "firstName": "Nikkil",
+        "lastName": "Sudharsanan",
+        "fullName": "Nikkil Sudharsanan"
+      }
+    ]
+  },
+  {
+    "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
+    "date": {
+      "year": 2022,
+      "month": 6,
+      "monthText": "June",
+      "raw": "2022-06"
+    },
+    "url": "https://www.ahajournals.org/doi/abs/10.1161/circ.146.suppl_1.10088",
+    "publisher": "American Journal of Respiratory and  Critical Care Medicine",
+    "authors": [
+      {
+        "firstName": "Wubin",
+        "lastName": "Xie",
+        "fullName": "Wubin Xie"
+      },
+      {
+        "firstName": "Alayna P",
+        "lastName": "Tackett",
+        "fullName": "Alayna P Tackett"
+      },
+      {
+        "firstName": "Jonathan B",
+        "lastName": "Berlowitz",
+        "fullName": "Jonathan B Berlowitz"
+      },
+      {
+        "firstName": "Alyssa F",
+        "lastName": "Harlow",
+        "fullName": "Alyssa F Harlow"
+      },
+      {
+        "firstName": "Hasmeena",
+        "lastName": "Kathuria",
+        "fullName": "Hasmeena Kathuria"
+      },
+      {
+        "firstName": "Panagis",
+        "lastName": "Galiatsatos",
+        "fullName": "Panagis Galiatsatos"
+      },
+      {
+        "firstName": "Jessica L",
+        "lastName": "Fetterman",
+        "fullName": "Jessica L Fetterman"
+      },
+      {
+        "firstName": "Junhan",
+        "lastName": "Cho",
+        "fullName": "Junhan Cho"
+      },
+      {
+        "firstName": "Michael J",
+        "lastName": "Blaha",
+        "fullName": "Michael J Blaha"
+      },
+      {
+        "firstName": "Naomi M",
+        "lastName": "Hamburg",
+        "fullName": "Naomi M Hamburg"
+      },
+      {
+        "firstName": "Rose Marie",
+        "lastName": "Robertson",
+        "fullName": "Rose Marie Robertson"
+      },
+      {
+        "firstName": "Andrew P",
+        "lastName": "DeFilippis",
+        "fullName": "Andrew P DeFilippis"
+      },
+      {
+        "firstName": "Michael E",
+        "lastName": "Hall",
+        "fullName": "Michael E Hall"
+      },
+      {
+        "firstName": "Aruni",
+        "lastName": "Bhatnagar",
+        "fullName": "Aruni Bhatnagar"
+      },
+      {
+        "firstName": "Emelia J",
+        "lastName": "Benjamin",
+        "fullName": "Emelia J Benjamin"
+      },
+      {
+        "firstName": "Andrew C",
+        "lastName": "Stokes",
+        "isMe": true,
+        "fullName": "Andrew C. Stokes"
       }
     ]
   },
@@ -681,100 +805,6 @@
       {
         "name": "Multicenter Osteoarthritis Study Group",
         "fullName": "Multicenter Osteoarthritis Study Group"
-      }
-    ]
-  },
-  {
-    "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "monthText": "June",
-      "raw": "2022-06"
-    },
-    "url": "https://www.ahajournals.org/doi/abs/10.1161/circ.146.suppl_1.10088",
-    "publisher": "Am. J. Respir. Crit. Care Med.",
-    "authors": [
-      {
-        "firstName": "Wubin",
-        "lastName": "Xie",
-        "fullName": "Wubin Xie"
-      },
-      {
-        "firstName": "Alayna P",
-        "lastName": "Tackett",
-        "fullName": "Alayna P Tackett"
-      },
-      {
-        "firstName": "Jonathan B",
-        "lastName": "Berlowitz",
-        "fullName": "Jonathan B Berlowitz"
-      },
-      {
-        "firstName": "Alyssa F",
-        "lastName": "Harlow",
-        "fullName": "Alyssa F Harlow"
-      },
-      {
-        "firstName": "Hasmeena",
-        "lastName": "Kathuria",
-        "fullName": "Hasmeena Kathuria"
-      },
-      {
-        "firstName": "Panagis",
-        "lastName": "Galiatsatos",
-        "fullName": "Panagis Galiatsatos"
-      },
-      {
-        "firstName": "Jessica L",
-        "lastName": "Fetterman",
-        "fullName": "Jessica L Fetterman"
-      },
-      {
-        "firstName": "Junhan",
-        "lastName": "Cho",
-        "fullName": "Junhan Cho"
-      },
-      {
-        "firstName": "Michael J",
-        "lastName": "Blaha",
-        "fullName": "Michael J Blaha"
-      },
-      {
-        "firstName": "Naomi M",
-        "lastName": "Hamburg",
-        "fullName": "Naomi M Hamburg"
-      },
-      {
-        "firstName": "Rose Marie",
-        "lastName": "Robertson",
-        "fullName": "Rose Marie Robertson"
-      },
-      {
-        "firstName": "Andrew P",
-        "lastName": "DeFilippis",
-        "fullName": "Andrew P DeFilippis"
-      },
-      {
-        "firstName": "Michael E",
-        "lastName": "Hall",
-        "fullName": "Michael E Hall"
-      },
-      {
-        "firstName": "Aruni",
-        "lastName": "Bhatnagar",
-        "fullName": "Aruni Bhatnagar"
-      },
-      {
-        "firstName": "Emelia J",
-        "lastName": "Benjamin",
-        "fullName": "Emelia J Benjamin"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
       }
     ]
   },

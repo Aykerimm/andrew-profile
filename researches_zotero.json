@@ -1,5 +1,961 @@
 [
   {
+    "key": "3XF4EQJM",
+    "version": 54,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/3XF4EQJM",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/3XF4EQJM",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Xie et al.",
+      "parsedDate": "2022-06",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "3XF4EQJM",
+      "version": 54,
+      "itemType": "journalArticle",
+      "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Wubin",
+          "lastName": "Xie"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alayna P",
+          "lastName": "Tackett"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jonathan B",
+          "lastName": "Berlowitz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Alyssa F",
+          "lastName": "Harlow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hasmeena",
+          "lastName": "Kathuria"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Panagis",
+          "lastName": "Galiatsatos"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica L",
+          "lastName": "Fetterman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Junhan",
+          "lastName": "Cho"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael J",
+          "lastName": "Blaha"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Naomi M",
+          "lastName": "Hamburg"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rose Marie",
+          "lastName": "Robertson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew P",
+          "lastName": "DeFilippis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Michael E",
+          "lastName": "Hall"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aruni",
+          "lastName": "Bhatnagar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emelia J",
+          "lastName": "Benjamin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew C",
+          "lastName": "Stokes"
+        }
+      ],
+      "abstractNote": "Rationale: Electronic cigarette (e-cigarette) use is highly prevalent among young adults. However, longitudinal data assessing the association between e-cigarette use and respiratory symptoms are lacking. Objectives: To determine whether e-cigarette use is associated with the development of respiratory symptoms in young adults. Methods: Data are derived from the PATH (Population Assessment of Tobacco and Health) study waves 2 (2014-2015), 3 (2015-2016), 4 (2016-2018), and 5 (2018-2019). Young adults aged 18-24 years at baseline with no prevalent respiratory disease or symptoms were included in the analyses. Binary logistic regression models with a generalized estimating equation were used to estimate time-varying and time-lagged associations of e-cigarette use during waves 2-4, with respiratory symptom development approximately 12 months later at waves 3-5. Measurements and Main Results: The per-wave prevalence of former and current e-cigarette use was 15.2% and 5.6%, respectively. Former e-cigarette use was associated with higher odds of developing any respiratory symptom (adjusted odds ratio [aOR], 1.20; 95% confidence interval [CI], 1.04-1.39) and wheezing in the chest (aOR, 1.41; 95% CI, 1.08-1.83) in multivariable adjusted models. Current e-cigarette use was associated with higher odds for any respiratory symptom (aOR, 1.32; 95% CI, 1.06-1.65) and wheezing in the chest (aOR, 1.51; 95% CI, 1.06-2.14). Associations persisted among participants who never smoked combustible cigarettes. Conclusions: In this nationally representative cohort of young adults, former and current e-cigarette use was associated with higher odds of developing wheezing-related respiratory symptoms, after accounting for cigarette smoking and other combustible tobacco product use.",
+      "publicationTitle": "American Journal of Respiratory and  Critical Care Medicine",
+      "volume": "205",
+      "issue": "11",
+      "pages": "1320–1329",
+      "date": "2022-06",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://www.atsjournals.org/doi/epdf/10.1164/rccm.202107-1718OC?role=tab",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "electronic cigarette use"
+        },
+        {
+          "tag": "respiratory signs and symptoms"
+        },
+        {
+          "tag": "tobacco use in young adults"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-16T19:57:11Z",
+      "dateModified": "2022-11-22T19:58:06Z"
+    }
+  },
+  {
+    "key": "IGESAWQ7",
+    "version": 52,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/IGESAWQ7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/IGESAWQ7",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Chen et al.",
+      "parsedDate": "2022-07",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "IGESAWQ7",
+      "version": 52,
+      "itemType": "journalArticle",
+      "title": "Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Ruijia",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Hélène E",
+          "lastName": "Aschmann"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Yea-Hung",
+          "lastName": "Chen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "M Maria",
+          "lastName": "Glymour"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Kirsten",
+          "lastName": "Bibbins-Domingo"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew C",
+          "lastName": "Stokes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mathew V",
+          "lastName": "Kiang"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "JAMA Internal Medicine",
+      "volume": "182",
+      "issue": "7",
+      "pages": "776–778",
+      "date": "2022-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2791682",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "published article"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-16T19:57:12Z",
+      "dateModified": "2022-11-22T19:52:30Z"
+    }
+  },
+  {
+    "key": "FG96YCUX",
+    "version": 48,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/FG96YCUX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/FG96YCUX",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Harlow et al.",
+      "parsedDate": "2022-07",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "FG96YCUX",
+      "version": 48,
+      "itemType": "journalArticle",
+      "title": "e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth: Accounting for Time-Varying Exposure and Time-Dependent Confounding",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alyssa F",
+          "lastName": "Harlow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew C",
+          "lastName": "Stokes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Daniel R",
+          "lastName": "Brooks"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emelia J",
+          "lastName": "Benjamin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica L",
+          "lastName": "Barrington-Trimis"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Craig S",
+          "lastName": "Ross"
+        }
+      ],
+      "abstractNote": "BACKGROUND: Youth e-cigarette use is associated with the initiation of combustible cigarette smoking, but prior studies have rarely accounted for time-varying measures of e-cigarette exposure or time-dependent confounding of e-cigarette use and smoking initiation. METHODS: Using five waves of the Population Assessment of Tobacco and Health (2013-2019), we estimated marginal structural models with inverse probability of treatment and censoring weights to examine the association between time-varying e-cigarette initiation and subsequent cigarette smoking initiation among e-cigarette- and cigarette-naïve youth (12-17 years) at baseline. Time-dependent confounders used as predictors in inverse probability weights included tobacco-related attitudes or beliefs, mental health symptoms, substance use, and tobacco-marketing exposure. RESULTS: Among 9,584 youth at baseline, those who initiated e-cigarettes were 2.4 times as likely to subsequently initiate cigarette smoking as youth who did not initiate e-cigarettes (risk ratio = 2.4, 95% confidence interval [CI] = 2.1, 2.7), after accounting for time-dependent confounding and selection bias. Among youth who initiated e-cigarettes, more frequent vaping was associated with greater risk of smoking initiation (risk ratio $\\geq$3 days/month = 1.8, 95% CI = 1.4, 2.2; 1-2 days/month = 1.2; 95% CI = 0.93, 1.6 vs. 0 days/month). Weighted marginal structural model estimates were moderately attenuated compared with unweighted estimates adjusted for baseline-only confounders. At the US population level, we estimated over half a million youth initiated cigarette smoking because of prior e-cigarette use over follow-up. CONCLUSIONS: The association between youth vaping and combustible cigarette smoking persisted after accounting for time-dependent confounding. We estimate that e-cigarette use accounts for a considerable share of cigarette initiation among US youth. See video abstract at, http://links.lww.com/EDE/B937.",
+      "publicationTitle": "Epidemiology",
+      "volume": "33",
+      "issue": "4",
+      "pages": "523–532",
+      "date": "2022-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://journals.lww.com/epidem/Fulltext/2022/07000/e_Cigarette_Use_and_Combustible_Cigarette_Smoking.10.aspx",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "published article"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-16T19:57:11Z",
+      "dateModified": "2022-11-22T19:49:14Z"
+    }
+  },
+  {
+    "key": "N6MYA8LH",
+    "version": 46,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/N6MYA8LH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/N6MYA8LH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Mauer et al.",
+      "parsedDate": "2022-07",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "N6MYA8LH",
+      "version": 46,
+      "itemType": "journalArticle",
+      "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Nicole",
+          "lastName": "Mauer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Pascal",
+          "lastName": "Geldsetzer"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jennifer",
+          "lastName": "Manne-Goehler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Justine I",
+          "lastName": "Davies"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew C",
+          "lastName": "Stokes"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Margaret",
+          "lastName": "McConnell"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mohammed K",
+          "lastName": "Ali"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Volker",
+          "lastName": "Winkler"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Nikkil",
+          "lastName": "Sudharsanan"
+        }
+      ],
+      "abstractNote": "Managing hypertension is a highly dynamic process, yet current evidence on hypertension control in middle-income countries (MICs) is largely based on cross-sectional data. Using multiple waves of population-based cohort data from four MICs (China, Indonesia, Mexico, and South Africa), we undertook a longitudinal investigation into how individuals with hypertension move through care over time. We classified adults aged 40 years and over (N = 8527) into care stages at both baseline and follow-up waves and estimated the probability of transitioning between stages using Poisson regression models. Over a 5- to 9-year follow-up period, only around 30% of undiagnosed individuals became diagnosed [Mexico, 27% (95% confidence interval: 23%, 31%); China, 30% (26%, 33%); Indonesia, 30% (28%, 32%); and South Africa, 36% (31%, 41%)], and one in four untreated individuals became treated [Indonesia, 11% (10%, 12%); Mexico, 24% (20%, 28%); China, 26% (23%, 29%); and South Africa, 33% (29%, 38%)]. The probability of reaching blood pressure (BP) control was lower [Indonesia, 2% (1%, 2%); China, 9% (7%, 11%); Mexico, 12% (9%, 14%); and South Africa, 24% (20%, 28%)] regardless of treatment status. A substantial proportion of individuals discontinued treatment [Indonesia, 70% (67%, 73%); China, 36% (32%, 40%); Mexico, 34% (29%, 39%); and South Africa, 20% (15%, 25%)], and most individuals lost BP control by follow-up [Indonesia, 92% (89%, 96%); Mexico, 77% (71%, 83%); China, 76% (69%, 83%); and South Africa 45% (36%, 54%)]. Our results highlight that policies solely aimed at improving diagnosis or initiating treatment may not lead to long-term hypertension control improvements in MICs. Across four middle-income countries, many individuals diagnosed with hypertension stop treatment and most of them lose blood pressure control over 5 to 9 years. Middle-income countries (MICs) face a disproportionately high burden of hypertension, as well as considerable population aging. It is therefore critical to understand how individuals move through hypertension care stages. Here, Mauer and colleagues longitudinally assessed how individuals with hypertension move through care by using waves of cohort data from China, Indonesia, Mexico, and South Africa. They found that only about 25% of untreated individuals became treated, whereas most individuals lost blood pressure control over the course of the study, and many discontinued treatment altogether. These findings highlight the challenges faced by MICs in trying to improve hypertension control and suggest that different approaches, beyond improving diagnosis and initiating treatment, are needed.",
+      "publicationTitle": "Science Translational Medicine",
+      "volume": "14",
+      "issue": "652",
+      "pages": "eabi9522",
+      "date": "2022-07",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://www.science.org/doi/epdf/10.1126/scitranslmed.abi9522",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "published article"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-16T19:57:20Z",
+      "dateModified": "2022-11-22T19:47:21Z"
+    }
+  },
+  {
+    "key": "YLVUFVQK",
+    "version": 43,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/YLVUFVQK",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/YLVUFVQK",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Harlow et al.",
+      "parsedDate": "2022-08",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "YLVUFVQK",
+      "version": 43,
+      "itemType": "journalArticle",
+      "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Alyssa F",
+          "lastName": "Harlow"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Jessica L",
+          "lastName": "Fetterman"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Craig S",
+          "lastName": "Ross"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rose Marie",
+          "lastName": "Robertson"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Aruni",
+          "lastName": "Bhatnagar"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Emelia J",
+          "lastName": "Benjamin"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Andrew C",
+          "lastName": "Stokes"
+        }
+      ],
+      "abstractNote": "BACKGROUND: Few studies assess whether electronic cigarette (e-cigarette) device characteristics or flavours impact longitudinal patterns of cigarette and e-cigarette use. DESIGN: We examined data from waves 2-4 of the Population Assessment of Tobacco and Health Study (2014-2018). Among adult ($\\geq$18 years) current e-cigarette users at wave 2 who were current smokers (dual users; n=1759) and former smokers (exclusive e-cigarette users; n=470), we classified participants into four use patterns at wave 3 ( 12 months later) and wave 4 ( 24 months later): (1) dual use of e-cigarettes and cigarettes; (2) exclusive cigarette smoking; (3) exclusive e-cigarette use; (4) non-use of both products. We used multinomial logistic regression to assess correlates of changing use patterns at 24 months, relative to no change, adjusting for sociodemographic factors. RESULTS: At 24 months, 26.5% of baseline exclusive e-cigarette users, and 9% of baseline dual users, abstained from both vaping and smoking. Participants who vaped non-tobacco flavours (vs tobacco flavours), and used refillable tank or modifiable devices (vs disposable, cartridges and other devices) were less likely to transition to non-use of both products and to exclusive cigarette smoking. Baseline daily vaping (vs non-daily) was positively associated with exclusive e-cigarette use at 24 months for baseline daily cigarette smokers, but negatively associated with exclusive e-cigarette use and non-use of both products at 24 months for baseline non-daily smokers. CONCLUSIONS: Non-tobacco flavours, daily vaping and modifiable e-cigarette devices may help some smokers abstain from cigarette smoking via transitioning to exclusive e-cigarette use, but are also associated with ongoing exclusive e-cigarette use.",
+      "publicationTitle": "Tobacco Control",
+      "volume": "31",
+      "issue": "e1",
+      "pages": "e10–e17",
+      "date": "2022-08",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "https://tobaccocontrol.bmj.com/content/tobaccocontrol/31/e1/e10.full.pdf",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        {
+          "tag": "cessation"
+        },
+        {
+          "tag": "electronic nicotine delivery devices"
+        },
+        {
+          "tag": "non-cigarette tobacco products"
+        },
+        {
+          "tag": "published article"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-16T19:57:14Z",
+      "dateModified": "2022-11-22T19:45:34Z"
+    }
+  },
+  {
+    "key": "YL8YCHS5",
+    "version": 41,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/YL8YCHS5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/YL8YCHS5",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/10609530/items/FT6GCRVA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 269127
+      }
+    },
+    "meta": {
+      "creatorSummary": "Elizabeth Wrigley-Field et al.",
+      "parsedDate": "2022-11-01",
+      "numChildren": 2
+    },
+    "data": {
+      "key": "YL8YCHS5",
+      "version": 41,
+      "itemType": "journalArticle",
+      "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota",
+      "creators": [
+        {
+          "creatorType": "author",
+          "name": "Elizabeth Wrigley-Field"
+        },
+        {
+          "creatorType": "author",
+          "name": "Kaitlyn M. Berry"
+        },
+        {
+          "creatorType": "author",
+          "name": "Andrew C. Stokes"
+        },
+        {
+          "creatorType": "author",
+          "name": "Jonathon P. Leider"
+        }
+      ],
+      "abstractNote": "Recent research underscores the exceptionally young age distribution of COVID-19 deaths in the U.S. compared with that of international peers. This pa…",
+      "publicationTitle": "American Journal of Preventive Medicine",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "date": "2022/11/01",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "en",
+      "DOI": "10.1016/j.amepre.2022.08.005",
+      "ISSN": "0749-3797",
+      "shortTitle": "",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
+      "accessDate": "2022-11-22T19:01:57Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "www.sciencedirect.com",
+      "callNumber": "",
+      "rights": "",
+      "extra": "Publisher: Elsevier",
+      "tags": [
+        {
+          "tag": "published article"
+        }
+      ],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:01:57Z",
+      "dateModified": "2022-11-22T19:41:50Z"
+    }
+  },
+  {
+    "key": "KDYK2V5K",
+    "version": 26,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/KDYK2V5K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/KDYK2V5K",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/10609530/items/YL8YCHS5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "text/html",
+        "href": "https://api.zotero.org/users/10609530/items/KDYK2V5K/file/view"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KDYK2V5K",
+      "version": 26,
+      "parentItem": "YL8YCHS5",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Snapshot",
+      "accessDate": "2022-11-22T19:02:25Z",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "utf-8",
+      "filename": "S0749379722004196.html",
+      "md5": "9cd8ca44c70275704c0674186a2cbc43",
+      "mtime": 1669143745501,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:02:25Z",
+      "dateModified": "2022-11-22T19:02:25Z"
+    }
+  },
+  {
+    "key": "FT6GCRVA",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/FT6GCRVA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/FT6GCRVA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/10609530/items/YL8YCHS5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/10609530/items/FT6GCRVA/file/view",
+        "title": "2022 - COVID-19 Vaccination and RacialEthnic Inequities .pdf",
+        "length": 269127
+      }
+    },
+    "meta": {
+      "numChildren": false
+    },
+    "data": {
+      "key": "FT6GCRVA",
+      "version": 27,
+      "parentItem": "YL8YCHS5",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Full Text",
+      "accessDate": "2022-11-22T19:01:59Z",
+      "url": "https://www.ajpmonline.org/article/S0749379722004196/pdf",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "2022 - COVID-19 Vaccination and RacialEthnic Inequities .pdf",
+      "md5": "139f58827dc70187d34ab9f9526c722c",
+      "mtime": 1669143719465,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:01:59Z",
+      "dateModified": "2022-11-22T19:01:59Z"
+    }
+  },
+  {
+    "key": "KE9VDPF4",
+    "version": 22,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/KE9VDPF4",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/KE9VDPF4",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/10609530/items/PQEKY52A",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "text/html",
+        "href": "https://api.zotero.org/users/10609530/items/KE9VDPF4/file/view"
+      }
+    },
+    "meta": {},
+    "data": {
+      "key": "KE9VDPF4",
+      "version": 22,
+      "parentItem": "PQEKY52A",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Snapshot",
+      "accessDate": "2022-11-22T19:00:22Z",
+      "url": "https://reader.elsevier.com/reader/sd/pii/S0749379722004196?token=3C2DF0A7CD8E4DD11A29E2265B2F1D5F7DCFF5CFA0A0AE509DB80F34143073A9468781D5F619769C6884017D27E7B313&originRegion=us-east-1&originCreation=20221122190007",
+      "note": "",
+      "contentType": "text/html",
+      "charset": "utf-8",
+      "filename": "S0749379722004196.html",
+      "md5": "6ce4c744f90c26d2883f71696378e31d",
+      "mtime": 1669143622634,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:00:22Z",
+      "dateModified": "2022-11-22T19:00:22Z"
+    }
+  },
+  {
+    "key": "V2PKIJFA",
+    "version": 21,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/V2PKIJFA",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/V2PKIJFA",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/10609530/items/PQEKY52A",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/10609530/items/V2PKIJFA/file/view",
+        "title": "COVID-19 Vaccination and RacialEthnic Inequities .pdf",
+        "length": 269127
+      }
+    },
+    "meta": {
+      "numChildren": false
+    },
+    "data": {
+      "key": "V2PKIJFA",
+      "version": 21,
+      "parentItem": "PQEKY52A",
+      "itemType": "attachment",
+      "linkMode": "imported_url",
+      "title": "Full Text PDF",
+      "accessDate": "2022-11-22T19:00:18Z",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196/pdfft?isDTMRedir=true&download=true",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "COVID-19 Vaccination and RacialEthnic Inequities .pdf",
+      "md5": "cd0c757fef15a52ed9e6b24b4fe7b66a",
+      "mtime": 1669143618139,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:00:18Z",
+      "dateModified": "2022-11-22T19:00:18Z"
+    }
+  },
+  {
+    "key": "PQEKY52A",
+    "version": 19,
+    "library": {
+      "type": "user",
+      "id": 10609530,
+      "name": "aygerim",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/aygerim",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/10609530/items/PQEKY52A",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/aygerim/items/PQEKY52A",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/10609530/items/V2PKIJFA",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 269127
+      }
+    },
+    "meta": {
+      "numChildren": 2
+    },
+    "data": {
+      "key": "PQEKY52A",
+      "version": 19,
+      "itemType": "webpage",
+      "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota | Elsevier Enhanced Reader",
+      "creators": [],
+      "abstractNote": "",
+      "websiteTitle": "",
+      "websiteType": "",
+      "date": "",
+      "shortTitle": "",
+      "url": "https://reader.elsevier.com/reader/sd/pii/S0749379722004196?token=3C2DF0A7CD8E4DD11A29E2265B2F1D5F7DCFF5CFA0A0AE509DB80F34143073A9468781D5F619769C6884017D27E7B313&originRegion=us-east-1&originCreation=20221122190007",
+      "accessDate": "2022-11-22T19:00:17Z",
+      "language": "en",
+      "rights": "",
+      "extra": "DOI: 10.1016/j.amepre.2022.08.005",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2022-11-22T19:00:17Z",
+      "dateModified": "2022-11-22T19:00:17Z"
+    }
+  },
+  {
     "key": "XVNA6M9U",
     "version": 16,
     "library": {
@@ -520,116 +1476,6 @@
       "seriesText": "",
       "journalAbbreviation": "",
       "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-11-16T19:57:20Z",
-      "dateModified": "2022-11-16T19:57:20Z"
-    }
-  },
-  {
-    "key": "N6MYA8LH",
-    "version": 14,
-    "library": {
-      "type": "user",
-      "id": 10609530,
-      "name": "aygerim",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/aygerim",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/10609530/items/N6MYA8LH",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/aygerim/items/N6MYA8LH",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Mauer et al.",
-      "parsedDate": "2022-07",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "N6MYA8LH",
-      "version": 14,
-      "itemType": "journalArticle",
-      "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Nicole",
-          "lastName": "Mauer"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Pascal",
-          "lastName": "Geldsetzer"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jennifer",
-          "lastName": "Manne-Goehler"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Justine I",
-          "lastName": "Davies"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew C",
-          "lastName": "Stokes"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Margaret",
-          "lastName": "McConnell"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mohammed K",
-          "lastName": "Ali"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Volker",
-          "lastName": "Winkler"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Nikkil",
-          "lastName": "Sudharsanan"
-        }
-      ],
-      "abstractNote": "Managing hypertension is a highly dynamic process, yet current evidence on hypertension control in middle-income countries (MICs) is largely based on cross-sectional data. Using multiple waves of population-based cohort data from four MICs (China, Indonesia, Mexico, and South Africa), we undertook a longitudinal investigation into how individuals with hypertension move through care over time. We classified adults aged 40 years and over (N = 8527) into care stages at both baseline and follow-up waves and estimated the probability of transitioning between stages using Poisson regression models. Over a 5- to 9-year follow-up period, only around 30% of undiagnosed individuals became diagnosed [Mexico, 27% (95% confidence interval: 23%, 31%); China, 30% (26%, 33%); Indonesia, 30% (28%, 32%); and South Africa, 36% (31%, 41%)], and one in four untreated individuals became treated [Indonesia, 11% (10%, 12%); Mexico, 24% (20%, 28%); China, 26% (23%, 29%); and South Africa, 33% (29%, 38%)]. The probability of reaching blood pressure (BP) control was lower [Indonesia, 2% (1%, 2%); China, 9% (7%, 11%); Mexico, 12% (9%, 14%); and South Africa, 24% (20%, 28%)] regardless of treatment status. A substantial proportion of individuals discontinued treatment [Indonesia, 70% (67%, 73%); China, 36% (32%, 40%); Mexico, 34% (29%, 39%); and South Africa, 20% (15%, 25%)], and most individuals lost BP control by follow-up [Indonesia, 92% (89%, 96%); Mexico, 77% (71%, 83%); China, 76% (69%, 83%); and South Africa 45% (36%, 54%)]. Our results highlight that policies solely aimed at improving diagnosis or initiating treatment may not lead to long-term hypertension control improvements in MICs. Across four middle-income countries, many individuals diagnosed with hypertension stop treatment and most of them lose blood pressure control over 5 to 9 years. Middle-income countries (MICs) face a disproportionately high burden of hypertension, as well as considerable population aging. It is therefore critical to understand how individuals move through hypertension care stages. Here, Mauer and colleagues longitudinally assessed how individuals with hypertension move through care by using waves of cohort data from China, Indonesia, Mexico, and South Africa. They found that only about 25% of untreated individuals became treated, whereas most individuals lost blood pressure control over the course of the study, and many discontinued treatment altogether. These findings highlight the challenges faced by MICs in trying to improve hypertension control and suggest that different approaches, beyond improving diagnosis and initiating treatment, are needed.",
-      "publicationTitle": "Sci. Transl. Med.",
-      "volume": "14",
-      "issue": "652",
-      "pages": "eabi9522",
-      "date": "2022-07",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "",
       "DOI": "",
       "ISSN": "",
       "shortTitle": "",
@@ -10479,116 +11325,6 @@
     }
   },
   {
-    "key": "YLVUFVQK",
-    "version": 6,
-    "library": {
-      "type": "user",
-      "id": 10609530,
-      "name": "aygerim",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/aygerim",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/10609530/items/YLVUFVQK",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/aygerim/items/YLVUFVQK",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Harlow et al.",
-      "parsedDate": "2022-08",
-      "numChildren": 1
-    },
-    "data": {
-      "key": "YLVUFVQK",
-      "version": 6,
-      "itemType": "journalArticle",
-      "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Alyssa F",
-          "lastName": "Harlow"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jessica L",
-          "lastName": "Fetterman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Craig S",
-          "lastName": "Ross"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rose Marie",
-          "lastName": "Robertson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Aruni",
-          "lastName": "Bhatnagar"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Emelia J",
-          "lastName": "Benjamin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew C",
-          "lastName": "Stokes"
-        }
-      ],
-      "abstractNote": "BACKGROUND: Few studies assess whether electronic cigarette (e-cigarette) device characteristics or flavours impact longitudinal patterns of cigarette and e-cigarette use. DESIGN: We examined data from waves 2-4 of the Population Assessment of Tobacco and Health Study (2014-2018). Among adult ($\\geq$18 years) current e-cigarette users at wave 2 who were current smokers (dual users; n=1759) and former smokers (exclusive e-cigarette users; n=470), we classified participants into four use patterns at wave 3 ( 12 months later) and wave 4 ( 24 months later): (1) dual use of e-cigarettes and cigarettes; (2) exclusive cigarette smoking; (3) exclusive e-cigarette use; (4) non-use of both products. We used multinomial logistic regression to assess correlates of changing use patterns at 24 months, relative to no change, adjusting for sociodemographic factors. RESULTS: At 24 months, 26.5% of baseline exclusive e-cigarette users, and 9% of baseline dual users, abstained from both vaping and smoking. Participants who vaped non-tobacco flavours (vs tobacco flavours), and used refillable tank or modifiable devices (vs disposable, cartridges and other devices) were less likely to transition to non-use of both products and to exclusive cigarette smoking. Baseline daily vaping (vs non-daily) was positively associated with exclusive e-cigarette use at 24 months for baseline daily cigarette smokers, but negatively associated with exclusive e-cigarette use and non-use of both products at 24 months for baseline non-daily smokers. CONCLUSIONS: Non-tobacco flavours, daily vaping and modifiable e-cigarette devices may help some smokers abstain from cigarette smoking via transitioning to exclusive e-cigarette use, but are also associated with ongoing exclusive e-cigarette use.",
-      "publicationTitle": "Tob. Control",
-      "volume": "31",
-      "issue": "e1",
-      "pages": "e10–e17",
-      "date": "2022-08",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [
-        {
-          "tag": "cessation"
-        },
-        {
-          "tag": "electronic nicotine delivery devices"
-        },
-        {
-          "tag": "non-cigarette tobacco products"
-        }
-      ],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-11-16T19:57:14Z",
-      "dateModified": "2022-11-16T19:57:14Z"
-    }
-  },
-  {
     "key": "CDHZFMCE",
     "version": 5,
     "library": {
@@ -13782,106 +14518,6 @@
     }
   },
   {
-    "key": "IGESAWQ7",
-    "version": 2,
-    "library": {
-      "type": "user",
-      "id": 10609530,
-      "name": "aygerim",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/aygerim",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/10609530/items/IGESAWQ7",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/aygerim/items/IGESAWQ7",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Chen et al.",
-      "parsedDate": "2022-07",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "IGESAWQ7",
-      "version": 2,
-      "itemType": "journalArticle",
-      "title": "Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Ruijia",
-          "lastName": "Chen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hélène E",
-          "lastName": "Aschmann"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Yea-Hung",
-          "lastName": "Chen"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "M Maria",
-          "lastName": "Glymour"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Kirsten",
-          "lastName": "Bibbins-Domingo"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew C",
-          "lastName": "Stokes"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Mathew V",
-          "lastName": "Kiang"
-        }
-      ],
-      "abstractNote": "",
-      "publicationTitle": "JAMA Intern. Med.",
-      "volume": "182",
-      "issue": "7",
-      "pages": "776–778",
-      "date": "2022-07",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-11-16T19:57:12Z",
-      "dateModified": "2022-11-16T19:57:12Z"
-    }
-  },
-  {
     "key": "ZQHK52KH",
     "version": 2,
     "library": {
@@ -14429,101 +15065,6 @@
     }
   },
   {
-    "key": "FG96YCUX",
-    "version": 2,
-    "library": {
-      "type": "user",
-      "id": 10609530,
-      "name": "aygerim",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/aygerim",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/10609530/items/FG96YCUX",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/aygerim/items/FG96YCUX",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Harlow et al.",
-      "parsedDate": "2022-07",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "FG96YCUX",
-      "version": 2,
-      "itemType": "journalArticle",
-      "title": "e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth: Accounting for Time-Varying Exposure and Time-Dependent Confounding",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Alyssa F",
-          "lastName": "Harlow"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew C",
-          "lastName": "Stokes"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Daniel R",
-          "lastName": "Brooks"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Emelia J",
-          "lastName": "Benjamin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jessica L",
-          "lastName": "Barrington-Trimis"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Craig S",
-          "lastName": "Ross"
-        }
-      ],
-      "abstractNote": "BACKGROUND: Youth e-cigarette use is associated with the initiation of combustible cigarette smoking, but prior studies have rarely accounted for time-varying measures of e-cigarette exposure or time-dependent confounding of e-cigarette use and smoking initiation. METHODS: Using five waves of the Population Assessment of Tobacco and Health (2013-2019), we estimated marginal structural models with inverse probability of treatment and censoring weights to examine the association between time-varying e-cigarette initiation and subsequent cigarette smoking initiation among e-cigarette- and cigarette-naïve youth (12-17 years) at baseline. Time-dependent confounders used as predictors in inverse probability weights included tobacco-related attitudes or beliefs, mental health symptoms, substance use, and tobacco-marketing exposure. RESULTS: Among 9,584 youth at baseline, those who initiated e-cigarettes were 2.4 times as likely to subsequently initiate cigarette smoking as youth who did not initiate e-cigarettes (risk ratio = 2.4, 95% confidence interval [CI] = 2.1, 2.7), after accounting for time-dependent confounding and selection bias. Among youth who initiated e-cigarettes, more frequent vaping was associated with greater risk of smoking initiation (risk ratio $\\geq$3 days/month = 1.8, 95% CI = 1.4, 2.2; 1-2 days/month = 1.2; 95% CI = 0.93, 1.6 vs. 0 days/month). Weighted marginal structural model estimates were moderately attenuated compared with unweighted estimates adjusted for baseline-only confounders. At the US population level, we estimated over half a million youth initiated cigarette smoking because of prior e-cigarette use over follow-up. CONCLUSIONS: The association between youth vaping and combustible cigarette smoking persisted after accounting for time-dependent confounding. We estimate that e-cigarette use accounts for a considerable share of cigarette initiation among US youth. See video abstract at, http://links.lww.com/EDE/B937.",
-      "publicationTitle": "Epidemiology",
-      "volume": "33",
-      "issue": "4",
-      "pages": "523–532",
-      "date": "2022-07",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-11-16T19:57:11Z",
-      "dateModified": "2022-11-16T19:57:11Z"
-    }
-  },
-  {
     "key": "GLV9GBJN",
     "version": 2,
     "library": {
@@ -14864,161 +15405,6 @@
         },
         {
           "tag": "infodemiology"
-        }
-      ],
-      "collections": [],
-      "relations": {},
-      "dateAdded": "2022-11-16T19:57:11Z",
-      "dateModified": "2022-11-16T19:57:11Z"
-    }
-  },
-  {
-    "key": "3XF4EQJM",
-    "version": 2,
-    "library": {
-      "type": "user",
-      "id": 10609530,
-      "name": "aygerim",
-      "links": {
-        "alternate": {
-          "href": "https://www.zotero.org/aygerim",
-          "type": "text/html"
-        }
-      }
-    },
-    "links": {
-      "self": {
-        "href": "https://api.zotero.org/users/10609530/items/3XF4EQJM",
-        "type": "application/json"
-      },
-      "alternate": {
-        "href": "https://www.zotero.org/aygerim/items/3XF4EQJM",
-        "type": "text/html"
-      }
-    },
-    "meta": {
-      "creatorSummary": "Xie et al.",
-      "parsedDate": "2022-06",
-      "numChildren": 0
-    },
-    "data": {
-      "key": "3XF4EQJM",
-      "version": 2,
-      "itemType": "journalArticle",
-      "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
-      "creators": [
-        {
-          "creatorType": "author",
-          "firstName": "Wubin",
-          "lastName": "Xie"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alayna P",
-          "lastName": "Tackett"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jonathan B",
-          "lastName": "Berlowitz"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Alyssa F",
-          "lastName": "Harlow"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Hasmeena",
-          "lastName": "Kathuria"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Panagis",
-          "lastName": "Galiatsatos"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Jessica L",
-          "lastName": "Fetterman"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Junhan",
-          "lastName": "Cho"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Michael J",
-          "lastName": "Blaha"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Naomi M",
-          "lastName": "Hamburg"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Rose Marie",
-          "lastName": "Robertson"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew P",
-          "lastName": "DeFilippis"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Michael E",
-          "lastName": "Hall"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Aruni",
-          "lastName": "Bhatnagar"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Emelia J",
-          "lastName": "Benjamin"
-        },
-        {
-          "creatorType": "author",
-          "firstName": "Andrew C",
-          "lastName": "Stokes"
-        }
-      ],
-      "abstractNote": "Rationale: Electronic cigarette (e-cigarette) use is highly prevalent among young adults. However, longitudinal data assessing the association between e-cigarette use and respiratory symptoms are lacking. Objectives: To determine whether e-cigarette use is associated with the development of respiratory symptoms in young adults. Methods: Data are derived from the PATH (Population Assessment of Tobacco and Health) study waves 2 (2014-2015), 3 (2015-2016), 4 (2016-2018), and 5 (2018-2019). Young adults aged 18-24 years at baseline with no prevalent respiratory disease or symptoms were included in the analyses. Binary logistic regression models with a generalized estimating equation were used to estimate time-varying and time-lagged associations of e-cigarette use during waves 2-4, with respiratory symptom development approximately 12 months later at waves 3-5. Measurements and Main Results: The per-wave prevalence of former and current e-cigarette use was 15.2% and 5.6%, respectively. Former e-cigarette use was associated with higher odds of developing any respiratory symptom (adjusted odds ratio [aOR], 1.20; 95% confidence interval [CI], 1.04-1.39) and wheezing in the chest (aOR, 1.41; 95% CI, 1.08-1.83) in multivariable adjusted models. Current e-cigarette use was associated with higher odds for any respiratory symptom (aOR, 1.32; 95% CI, 1.06-1.65) and wheezing in the chest (aOR, 1.51; 95% CI, 1.06-2.14). Associations persisted among participants who never smoked combustible cigarettes. Conclusions: In this nationally representative cohort of young adults, former and current e-cigarette use was associated with higher odds of developing wheezing-related respiratory symptoms, after accounting for cigarette smoking and other combustible tobacco product use.",
-      "publicationTitle": "Am. J. Respir. Crit. Care Med.",
-      "volume": "205",
-      "issue": "11",
-      "pages": "1320–1329",
-      "date": "2022-06",
-      "series": "",
-      "seriesTitle": "",
-      "seriesText": "",
-      "journalAbbreviation": "",
-      "language": "en",
-      "DOI": "",
-      "ISSN": "",
-      "shortTitle": "",
-      "url": "",
-      "accessDate": "",
-      "archive": "",
-      "archiveLocation": "",
-      "libraryCatalog": "",
-      "callNumber": "",
-      "rights": "",
-      "extra": "",
-      "tags": [
-        {
-          "tag": "electronic cigarette use"
-        },
-        {
-          "tag": "respiratory signs and symptoms"
-        },
-        {
-          "tag": "tobacco use in young adults"
         }
       ],
       "collections": [],

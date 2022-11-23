@@ -1,0 +1,204 @@
+[
+    {
+        "title": "Geographic and Temporal Patterns in Covid-19 Mortality by Race and Ethnicity in the United States from March 2020 to February 2022",
+        "date": {
+            "year": 2022,
+            "month": 7,
+            "monthText": "July",
+            "raw": "2022-07-20"
+        },
+        "publisher": "medRxiv",
+        "authors": [
+            {
+                "fullName": "Dielle J. Lundberg"
+            },
+            {
+                "fullName": "Ahyoung Cho"
+            },
+            {
+                "fullName": "Rafeya Raquib"
+            },
+            {
+                "fullName": "Elaine O. Nsoesie"
+            },
+            {
+                "fullName": "Elizabeth Wrigley-Field"
+            },
+            {
+                "fullName": "Andrew C. Stokes",
+                "isMe": true
+            }
+        ],
+        "url": "https://www.medrxiv.org/content/10.1101/2022.07.20.22277872v1"
+    },
+    {
+        "title": "Missing Americans: Early Death in the United States, 1933-2021",
+        "date": {
+            "year": 2022,
+            "month": 6,
+            "monthText": "June",
+            "raw": "2022-06-29"
+        },
+        "publisher": "medRxiv",
+        "authors": [
+            {
+                "fullName": "Jacob Bor"
+            },
+            {
+                "fullName": "Andrew C. Stokes",
+                "isMe": true
+            },
+            {
+                "fullName": "Julia Raifman"
+            },
+            {
+                "fullName": "Atheendar Venkataramani"
+            },
+            {
+                "fullName": "Mary T. Bassett"
+            },
+            {
+                "fullName": "David Himmelstein"
+            },
+            {
+                "fullName": "Steffie Woolhandler"
+            }
+        ],
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.29.22277065v2.full"
+    },
+    {
+        "title": "Monthly excess mortality across counties in the United States during the Covid-19 pandemic, March 2020 to February 2022",
+        "date": {
+            "year": 2022,
+            "month": 4,
+            "monthText": "April",
+            "raw": "2022-04-23"
+        },
+        "publisher": "medRxiv",
+        "authors": [
+            {
+                "fullName": "Eugenio Paglino"
+            },
+            {
+                "fullName": "Dielle J. Lundberg"
+            },
+            {
+                "fullName": "Zhenwei Zhou"
+            },
+            {
+                "fullName": "Joe A. Wasserman"
+            },
+            {
+                "fullName": "Rafeya Raquib"
+            },
+            {
+                "fullName": "Anneliese N. Luck"
+            },
+            {
+                "fullName": "Katherine Hempstead"
+            },
+            {
+                "fullName": "Jacob Bor"
+            },
+            {
+                "fullName": "Samuel H. Preston"
+            },
+            {
+                "fullName": "Irma T. Elo"
+            },
+            {
+                "fullName": "Andrew C. Stokes",
+                "isMe": true
+            }
+        ],
+        "url": "https://www.medrxiv.org/content/10.1101/2022.04.23.22274192v4"
+    },
+    {
+        "title": "COVID-19 mortality among working-age Americans in 46 states, by industry and occupation",
+        "date": {
+            "year": 2022,
+            "month": 3,
+            "monthText": "March",
+            "raw": "2022-03-29"
+        },
+        "publisher": "medRxiv",
+        "authors": [
+            {
+                "fullName": "Yea-Hung Chen"
+            },
+            {
+                "fullName": "Ruijia Chen"
+            },
+            {
+                "fullName": "Marie-Laure Charpignon"
+            },
+            {
+                "fullName": "Mathew V Kiang"
+            },
+            {
+                "fullName": "Alicia R Riley"
+            },
+            {
+                "fullName": "M Maria Glymour"
+            },
+            {
+                "fullName": "Kirsten Bibbins-Domingo"
+            },
+            {
+                "fullName": "Andrew C. Stokes",
+                "isMe": true
+            }
+        ],
+        "url": "https://www.medrxiv.org/content/10.1101/2022.03.29.22273085v2"
+    },
+    {
+        "title": "Health systems performance for hypertension control using a cascade of care approach in South Africa, 2008-2017",
+        "date": {
+            "year": 2021,
+            "month": 9,
+            "monthText": "September",
+            "raw": "2021-09-13"
+        },
+        "publisher": "medRxiv",
+        "authors": [
+            {
+                "fullName": "Mariet Benade"
+            },
+            {
+                "fullName": "Sridevi K. Prasad"
+            },
+            {
+                "fullName": "Zandile Mchiza"
+            },
+            {
+                "fullName": "Lily D. Yan"
+            },
+            {
+                "fullName": "Alana T. Brennan"
+            },
+            {
+                "fullName": "Justine Davies"
+            },
+            {
+                "fullName": "Nikkil Sudharsanan"
+            },
+            {
+                "fullName": "Jennifer Manne-Goehler"
+            },
+            {
+                "fullName": "Matthew P. Fox"
+            },
+            {
+                "fullName": "Jacob Bor"
+            },
+            {
+                "fullName": "Sydney B. Rosen"
+            },
+            {
+                "fullName": "Andrew C. Stokes",
+                "isMe": true
+            }
+        ],
+        "url": "https://www.medrxiv.org/content/10.1101/2021.09.13.21251870v1"
+    }
+]
