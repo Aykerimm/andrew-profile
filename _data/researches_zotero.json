@@ -325,55 +325,6 @@
     ]
   },
   {
-    "title": "Missing Americans: Early death in the United States, 1933-2021",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "monthText": "June",
-      "raw": "2022-06"
-    },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.06.29.22277065v2.full-text",
-    "publisher": "bioRxiv",
-    "authors": [
-      {
-        "firstName": "Jacob",
-        "lastName": "Bor",
-        "fullName": "Jacob Bor"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "Julia",
-        "lastName": "Raifman",
-        "fullName": "Julia Raifman"
-      },
-      {
-        "firstName": "Atheendar",
-        "lastName": "Venkataramani",
-        "fullName": "Atheendar Venkataramani"
-      },
-      {
-        "firstName": "Mary T",
-        "lastName": "Bassett",
-        "fullName": "Mary T Bassett"
-      },
-      {
-        "firstName": "David",
-        "lastName": "Himmelstein",
-        "fullName": "David Himmelstein"
-      },
-      {
-        "firstName": "Steffie",
-        "lastName": "Woolhandler",
-        "fullName": "Steffie Woolhandler"
-      }
-    ]
-  },
-  {
     "title": "Excess natural-cause deaths in California by cause and setting: March 2020 through February 2021",
     "date": {
       "year": 2022,
@@ -445,8 +396,8 @@
       "monthText": "June",
       "raw": "2022-06"
     },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.03.02.22271808v3.full-text",
-    "publisher": "medRxiv",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
+    "publisher": "ScienceDirect",
     "authors": [
       {
         "firstName": "Elizabeth",
@@ -976,75 +927,6 @@
     ]
   },
   {
-    "title": "Excess all-cause mortality across counties in the United States, March 2020 to December 2021",
-    "date": {
-      "year": 2022,
-      "month": 5,
-      "monthText": "May",
-      "raw": "2022-05"
-    },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.04.23.22274192v2",
-    "publisher": "medRxiv",
-    "authors": [
-      {
-        "firstName": "Eugenio",
-        "lastName": "Paglino",
-        "fullName": "Eugenio Paglino"
-      },
-      {
-        "firstName": "Dielle J",
-        "lastName": "Lundberg",
-        "fullName": "Dielle J Lundberg"
-      },
-      {
-        "firstName": "Ahyoung",
-        "lastName": "Cho",
-        "fullName": "Ahyoung Cho"
-      },
-      {
-        "firstName": "Joe A",
-        "lastName": "Wasserman",
-        "fullName": "Joe A Wasserman"
-      },
-      {
-        "firstName": "Rafeya",
-        "lastName": "Raquib",
-        "fullName": "Rafeya Raquib"
-      },
-      {
-        "firstName": "Anneliese N",
-        "lastName": "Luck",
-        "fullName": "Anneliese N Luck"
-      },
-      {
-        "firstName": "Katherine",
-        "lastName": "Hempstead",
-        "fullName": "Katherine Hempstead"
-      },
-      {
-        "firstName": "Jacob",
-        "lastName": "Bor",
-        "fullName": "Jacob Bor"
-      },
-      {
-        "firstName": "Irma T",
-        "lastName": "Elo",
-        "fullName": "Irma T Elo"
-      },
-      {
-        "firstName": "Samuel H",
-        "lastName": "Preston",
-        "fullName": "Samuel H Preston"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      }
-    ]
-  },
-  {
     "title": "Association of Online Search Trends With Vaccination in the United States: June 2020 Through May 2021",
     "date": {
       "year": 2022,
@@ -1258,72 +1140,8 @@
       "monthText": "February",
       "raw": "2022-02"
     },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.02.14.22270958v1.full-text",
-    "publisher": "bioRxiv",
-    "authors": [
-      {
-        "firstName": "Yea-Hung",
-        "lastName": "Chen",
-        "fullName": "Yea-Hung Chen"
-      },
-      {
-        "firstName": "Alicia R",
-        "lastName": "Riley",
-        "fullName": "Alicia R Riley"
-      },
-      {
-        "firstName": "Kate A",
-        "lastName": "Duchowny",
-        "fullName": "Kate A Duchowny"
-      },
-      {
-        "firstName": "Hélène E",
-        "lastName": "Aschmann",
-        "fullName": "Hélène E Aschmann"
-      },
-      {
-        "firstName": "Ruijia",
-        "lastName": "Chen",
-        "fullName": "Ruijia Chen"
-      },
-      {
-        "firstName": "Mathew V",
-        "lastName": "Kiang",
-        "fullName": "Mathew V Kiang"
-      },
-      {
-        "firstName": "Alyssa",
-        "lastName": "Mooney",
-        "fullName": "Alyssa Mooney"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "M Maria",
-        "lastName": "Glymour",
-        "fullName": "M Maria Glymour"
-      },
-      {
-        "firstName": "Kirsten",
-        "lastName": "Bibbins-Domingo",
-        "fullName": "Kirsten Bibbins-Domingo"
-      }
-    ]
-  },
-  {
-    "title": "COVID-19 mortality and excess mortality among working-age Californians, by occupational sector: March 2020 through November 2021",
-    "date": {
-      "year": 2022,
-      "month": 2,
-      "monthText": "February",
-      "raw": "2022-02"
-    },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.02.14.22270958v1.full-text",
-    "publisher": "bioRxiv",
+    "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(22)00191-8/fulltext",
+    "publisher": "The Lancet Public Health",
     "authors": [
       {
         "firstName": "Yea-Hung",
