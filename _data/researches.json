@@ -1,4 +1,4 @@
-[
+[/*
     {
         "authors": [
             "Elizabeth Wrigley-Field",
@@ -10,7 +10,7 @@
             "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
             "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota"
         }
-    },
+    },*/
     {
         "authors": [
             "Leili Behrooz",
@@ -374,7 +374,7 @@
             "url": "https://journals.lww.com/epidem/Abstract/2022/07000/e_Cigarette_Use_and_Combustible_Cigarette_Smoking.10.aspx",
             "title": "e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth: Accounting for Time-Varying Exposure and Time-Dependent Confounding. Epidemiology. 2022 Jul 1;33(4):523–32"
         }
-    },
+    },/*
     {
         "authors": [
             "Wrigley-Field E",
@@ -386,7 +386,7 @@
             "url": "https://www.medrxiv.org/content/10.1101/2022.03.02.22271808v3.full-text",
             "title": "“Pandemic of the unvaccinated”? At midlife, white people are less vaccinated but still at less risk of Covid-19 mortality in Minnesota. medRxiv. 2022 Jun 17"
         }
-    },
+    },*/
     {
         "authors": [
             "Rezk-Hanna M",
