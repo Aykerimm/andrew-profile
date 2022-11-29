@@ -17,3 +17,15 @@ https://developers.cloudflare.com/pages/framework-guides/deploy-anything/#deploy
  - Build command: `jekyll build`
  - Build output directory: `_site`
 
+
+# How to Update researches list from Zotero
+
+Use `retrieve.js` file.
+
+1. Install NodeJS
+2. Copy the content of `sample.env` file to `.env` file
+3. Create API key on Zotero website. Copy it and paste in `.env` file after `ZOTERO_API_KEY=`
+4. Copy Zotero user ID on Zotero website. It should be in profile page. Copy it and paste in `.env` file after `ZOTERO_USER_ID=`
+5. Run the script by executing `node retrieve.js`
+6. It will download library items to a file.
+
