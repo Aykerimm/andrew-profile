@@ -1,36 +1,5 @@
 [
-  /*
-  {
-    "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota",
-    "date": {
-      "year": 2022,
-      "month": 11,
-      "monthText": "November",
-      "raw": "2022/11/01"
-    },
-    "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
-    "publisher": "American Journal of Preventive Medicine",
-    "authors": [
-      {
-        "name": "Elizabeth Wrigley-Field",
-        "fullName": "Elizabeth Wrigley-Field"
-      },
-      {
-        "name": "Kaitlyn M. Berry",
-        "fullName": "Kaitlyn M. Berry"
-      },
-      {
-        "name": "Andrew C. Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "name": "Jonathon P. Leider",
-        "fullName": "Jonathon P. Leider"
-      }
-    ]
-  },
-  */
+  
   {
     "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
     "date": {
@@ -390,16 +359,7 @@
       }
     ]
   },
-  /*
-  {
-    "title": "“Pandemic of the unvaccinated”? At midlife, white people are less vaccinated but still at less risk of Covid-19 mortality in Minnesota",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "monthText": "June",
-      "raw": "2022-06"
-    },
-    */
+  
     "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
     "publisher": "ScienceDirect",
     "authors": [
