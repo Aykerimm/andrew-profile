@@ -1,4 +1,5 @@
-[/*
+[
+  /*
   {
     "title": "COVID-19 Vaccination and Racial/Ethnic Inequities in Mortality at Midlife in Minnesota",
     "date": {
@@ -389,6 +390,7 @@
       }
     ]
   },
+  /*
   {
     "title": "“Pandemic of the unvaccinated”? At midlife, white people are less vaccinated but still at less risk of Covid-19 mortality in Minnesota",
     "date": {
@@ -397,6 +399,7 @@
       "monthText": "June",
       "raw": "2022-06"
     },
+    */
     "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
     "publisher": "ScienceDirect",
     "authors": [
