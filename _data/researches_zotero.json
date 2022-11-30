@@ -2344,50 +2344,6 @@
     ]
   },
   {
-    "title": "Assessing the Impact of the Covid-19 Pandemic on US Mortality: A County-Level Analysis",
-    "date": {
-      "year": 2021,
-      "month": 3,
-      "monthText": "March",
-      "raw": "2021-03"
-    },
-    "url": "https://doi.org/10.1371/journal.pmed.1003571",
-    "publisher": "PLoS Med.",
-    "authors": [
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "Dielle J",
-        "lastName": "Lundberg",
-        "fullName": "Dielle J Lundberg"
-      },
-      {
-        "firstName": "Irma T",
-        "lastName": "Elo",
-        "fullName": "Irma T Elo"
-      },
-      {
-        "firstName": "Katherine",
-        "lastName": "Hempstead",
-        "fullName": "Katherine Hempstead"
-      },
-      {
-        "firstName": "Jacob",
-        "lastName": "Bor",
-        "fullName": "Jacob Bor"
-      },
-      {
-        "firstName": "Samuel H",
-        "lastName": "Preston",
-        "fullName": "Samuel H Preston"
-      }
-    ]
-  },
-  {
     "title": "Obesity Progression Between Young Adulthood and Midlife and Incident Arthritis: A Retrospective Cohort Study of US Adults",
     "date": {
       "year": 2021,
