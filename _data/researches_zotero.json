@@ -1133,7 +1133,7 @@
     ]
   },
   {
-    "title": "COVID-19 mortality and excess mortality among working-age Californians, by occupational sector: March 2020 through November 2021",
+    "title": "COVID-19 mortality and excess mortality among working-age residents in California, USA, by occupational sector: a longitudinal cohort analysis of mortality surveillance data",
     "date": {
       "year": 2022,
       "month": 2,
@@ -2233,8 +2233,8 @@
       "monthText": "May",
       "raw": "2021-05"
     },
-    "url": "https://www.medrxiv.org/content/10.1101/2021.04.30.21256391v1.full-text",
-    "publisher": "medRxiv",
+    "url": "https://www.science.org/doi/10.1126/scitranslmed.abi9522",
+    "publisher": "Science Translational Medicine",
     "authors": [
       {
         "firstName": "Nicole",
