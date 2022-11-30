@@ -389,40 +389,6 @@
     ]
   },
   {
-    "title": "“Pandemic of the unvaccinated”? At midlife, white people are less vaccinated but still at less risk of Covid-19 mortality in Minnesota",
-    "date": {
-      "year": 2022,
-      "month": 6,
-      "monthText": "June",
-      "raw": "2022-06"
-    },
-    "url": "https://www.sciencedirect.com/science/article/pii/S0749379722004196",
-    "publisher": "ScienceDirect",
-    "authors": [
-      {
-        "firstName": "Elizabeth",
-        "lastName": "Wrigley-Field",
-        "fullName": "Elizabeth Wrigley-Field"
-      },
-      {
-        "firstName": "Kaitlyn M",
-        "lastName": "Berry",
-        "fullName": "Kaitlyn M Berry"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "Jonathon P",
-        "lastName": "Leider",
-        "fullName": "Jonathon P Leider"
-      }
-    ]
-  },
-  {
     "title": "Data Resource Profile: The Global Health and Population Project on Access to Care for Cardiometabolic Diseases (HPACC)",
     "date": {
       "year": 2022,
