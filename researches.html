@@ -42,8 +42,18 @@ pageurl: /researches
             {%- endfor -%}
         </p>
         <p class="research__meta">
-            <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
+            <span><span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}</span>
         </p>
+        {% if research.mediaCoverage and research.mediaCoverage != empty %}
+        <p class="research__meta research__meta-media-coverage">
+            <span>
+                <span class="research__meta-media-coverage">Media coverage: </span>
+            {% for media in research.mediaCoverage %}
+                <a href="{{media.link}}">{{media.name}}</a>
+            {% endfor %}
+            </span>
+        </p>
+        {% endif %}
     </li>
     {% endfor %}
 </ul>
@@ -74,6 +84,16 @@ pageurl: /researches
             <p class="research__meta">
                 <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
             </p>
+            {% if research.mediaCoverage and research.mediaCoverage != empty %}
+            <p class="research__meta research__meta-media-coverage">
+                <span>
+                    <span class="research__meta-media-coverage">Media coverage: </span>
+                {% for media in research.mediaCoverage %}
+                    <a href="{{media.link}}">{{media.name}}</a>
+                {% endfor %}
+                </span>
+            </p>
+            {% endif %}
         </li>
         {% endfor %}
     </ul>
