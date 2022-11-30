@@ -1231,60 +1231,6 @@
     ]
   },
   {
-    "title": "COVID-19 mortality among working-age Americans in 46 states, by industry and occupation",
-    "date": {
-      "year": 2022,
-      "month": 1,
-      "monthText": "January",
-      "raw": "2022"
-    },
-    "url": "https://www.medrxiv.org/content/10.1101/2022.03.29.22273085v2.full-text",
-    "publisher": "medRxiv",
-    "authors": [
-      {
-        "firstName": "Yea-Hung",
-        "lastName": "Chen",
-        "fullName": "Yea-Hung Chen"
-      },
-      {
-        "firstName": "Ruijia",
-        "lastName": "Chen",
-        "fullName": "Ruijia Chen"
-      },
-      {
-        "firstName": "Marie-Laure",
-        "lastName": "Charpignon",
-        "fullName": "Marie-Laure Charpignon"
-      },
-      {
-        "firstName": "Mathew V",
-        "lastName": "Kiang",
-        "fullName": "Mathew V Kiang"
-      },
-      {
-        "firstName": "Alicia R",
-        "lastName": "Riley",
-        "fullName": "Alicia R Riley"
-      },
-      {
-        "firstName": "M Maria",
-        "lastName": "Glymour",
-        "fullName": "M Maria Glymour"
-      },
-      {
-        "firstName": "Kirsten",
-        "lastName": "Bibbins-Domingo",
-        "fullName": "Kirsten Bibbins-Domingo"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      }
-    ]
-  },
-  {
     "title": "Association of E-Cigarettes With Erectile Dysfunction: The Population Assessment of Tobacco and Health Study",
     "date": {
       "year": 2022,
@@ -1684,80 +1630,6 @@
         "firstName": "Kaleb",
         "lastName": "Michaud",
         "fullName": "Kaleb Michaud"
-      }
-    ]
-  },
-  {
-    "title": "Health systems performance for hypertension control using a cascade of care approach in South Africa, 2008-2017",
-    "date": {
-      "year": 2021,
-      "month": 9,
-      "monthText": "September",
-      "raw": "2021-09"
-    },
-    "url": "https://www.medrxiv.org/content/10.1101/2021.09.13.21251870v1.full-text",
-    "publisher": "bioRxiv",
-    "authors": [
-      {
-        "firstName": "Mariet",
-        "lastName": "Benade",
-        "fullName": "Mariet Benade"
-      },
-      {
-        "firstName": "Sridevi K",
-        "lastName": "Prasad",
-        "fullName": "Sridevi K Prasad"
-      },
-      {
-        "firstName": "Zandile",
-        "lastName": "Mchiza",
-        "fullName": "Zandile Mchiza"
-      },
-      {
-        "firstName": "Lily D",
-        "lastName": "Yan",
-        "fullName": "Lily D Yan"
-      },
-      {
-        "firstName": "Alana T",
-        "lastName": "Brennan",
-        "fullName": "Alana T Brennan"
-      },
-      {
-        "firstName": "Justine",
-        "lastName": "Davies",
-        "fullName": "Justine Davies"
-      },
-      {
-        "firstName": "Nikkil",
-        "lastName": "Sudharsanan",
-        "fullName": "Nikkil Sudharsanan"
-      },
-      {
-        "firstName": "Jennifer",
-        "lastName": "Manne-Goehler",
-        "fullName": "Jennifer Manne-Goehler"
-      },
-      {
-        "firstName": "Matthew P",
-        "lastName": "Fox",
-        "fullName": "Matthew P Fox"
-      },
-      {
-        "firstName": "Jacob",
-        "lastName": "Bor",
-        "fullName": "Jacob Bor"
-      },
-      {
-        "firstName": "Sydney B",
-        "lastName": "Rosen",
-        "fullName": "Sydney B Rosen"
-      },
-      {
-        "firstName": "Andrew C",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
       }
     ]
   },
@@ -2480,7 +2352,7 @@
       "raw": "2021-03"
     },
     "url": "https://academyhealth.confex.com/academyhealth/2022arm/meetingapp.cgi/Session/30773",
-    "publisher": "medRxiv",
+    "publisher": "Academy Health",
     "authors": [
       {
         "firstName": "Andrew C",
