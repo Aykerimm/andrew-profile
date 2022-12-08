@@ -50,6 +50,9 @@ pageurl: /researches
                 <span class="research__meta-media-coverage">Media coverage: </span>
             {% for media in research.mediaCoverage %}
                 <a href="{{media.link}}">{{media.name}}</a>
+                {%- if forloop.last != true -%}
+                ,
+                {%- endif -%}
             {% endfor %}
             </span>
         </p>
@@ -90,6 +93,9 @@ pageurl: /researches
                     <span class="research__meta-media-coverage">Media coverage: </span>
                 {% for media in research.mediaCoverage %}
                     <a href="{{media.link}}">{{media.name}}</a>
+                    {%- if forloop.last != true -%}
+                        ,
+                    {%- endif -%}
                 {% endfor %}
                 </span>
             </p>
