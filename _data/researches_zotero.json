@@ -28,9 +28,12 @@
         "fullName": "Jonathon P. Leider"
       }
     ],
-    "mediaCoverage":[{
-      "name":"During the Omicron Wave, Death Rates Soared for Older People",
-      "link":"https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html"
+    "mediaCoverage": [
+      {
+        "name": "During the Omicron Wave, Death Rates Soared for Older People",
+        "link": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html"
+      }
+    ]
   },
   {
     "title": "Association of device type, flavours and vaping behaviour with tobacco product transitions among adult electronic cigarette users in the USA",
