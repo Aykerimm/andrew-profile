@@ -47,13 +47,15 @@ pageurl: /researches
         {% if research.mediaCoverage and research.mediaCoverage != empty %}
         <p class="research__meta research__meta-media-coverage">
             <span>
-                <span class="research__meta-media-coverage">Media coverage: </span>
+                <span class="research__meta-media-header">Media coverage: </span>
+                [
             {% for media in research.mediaCoverage %}
-                <a href="{{media.link}}">{{media.name}}</a>
+                <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
                 {%- if forloop.last != true -%}
                 ,
                 {%- endif -%}
             {% endfor %}
+            ]
             </span>
         </p>
         {% endif %}
@@ -90,13 +92,15 @@ pageurl: /researches
             {% if research.mediaCoverage and research.mediaCoverage != empty %}
             <p class="research__meta research__meta-media-coverage">
                 <span>
-                    <span class="research__meta-media-coverage">Media coverage: </span>
+                    <span class="research__meta-media-header">Media coverage: </span>
+                    [
                 {% for media in research.mediaCoverage %}
-                    <a href="{{media.link}}">{{media.name}}</a>
+                    <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
                     {%- if forloop.last != true -%}
                         ,
                     {%- endif -%}
                 {% endfor %}
+                ]
                 </span>
             </p>
             {% endif %}

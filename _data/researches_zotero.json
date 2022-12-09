@@ -30,8 +30,15 @@
     ],
     "mediaCoverage": [
       {
-        "name": "During the Omicron Wave, Death Rates Soared for Older People",
-        "link": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html"
+        "name": "The New York Times",
+        "title": "During the Omicron Wave, Death Rates Soared for Older People.",
+        "link": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html",
+        "date": {
+          "raw": "May 31, 2022",
+          "year": 2022,
+          "month": 5,
+          "day": 31
+        }
       }
     ]
   },
@@ -82,7 +89,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Racial and Ethnic Disparities in Estimated Excess Mortality From External Causes in the US, March to December 2020",
@@ -131,7 +139,8 @@
         "lastName": "Kiang",
         "fullName": "Mathew V Kiang"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "e-Cigarette Use and Combustible Cigarette Smoking Initiation Among Youth: Accounting for Time-Varying Exposure and Time-Dependent Confounding",
@@ -175,7 +184,8 @@
         "lastName": "Ross",
         "fullName": "Craig S Ross"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Longitudinal evidence on treatment discontinuation, adherence, and loss of hypertension control in four middle-income countries",
@@ -234,7 +244,8 @@
         "lastName": "Sudharsanan",
         "fullName": "Nikkil Sudharsanan"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Electronic Cigarette Use with Respiratory Symptom Development among U.S. Young Adults",
@@ -328,7 +339,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Excess natural-cause deaths in California by cause and setting: March 2020 through February 2021",
@@ -391,6 +403,19 @@
         "firstName": "Kirsten",
         "lastName": "Bibbins-Domingo",
         "fullName": "Kirsten Bibbins-Domingo"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "USA Today",
+        "title": "Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19.",
+        "link": "https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/",
+        "date": {
+          "raw": "December 26, 2021",
+          "year": 2021,
+          "month": 12,
+          "day": 26
+        }
       }
     ]
   },
@@ -666,7 +691,8 @@
         "lastName": "Bärnighausen",
         "fullName": "Till W Bärnighausen"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Depressive symptoms and multi-joint pain partially mediate the relationship between obesity and opioid use in people with knee osteoarthritis",
@@ -729,7 +755,8 @@
         "name": "Multicenter Osteoarthritis Study Group",
         "fullName": "Multicenter Osteoarthritis Study Group"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Associations of Smokeless Tobacco Use With Cardiovascular Disease Risk: Insights From the Population Assessment of Tobacco and Health Study",
@@ -798,6 +825,19 @@
         "lastName": "Benowitz",
         "fullName": "Neal L Benowitz"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "The Philadelphia Tribune",
+        "title": "Smoking both traditional and e-cigarettes may carry same heart risks as cigarettes alone.",
+        "link": "https://www.phillytrib.com/news/health/smoking-both-traditional-and-e-cigarettes-may-carry-same-heart-risks-as-cigarettes-alone/article_0d498df4-51eb-535f-8160-e10d7cac7fd4.html",
+        "date": {
+          "raw": "May 9, 2022",
+          "year": 2022,
+          "month": 5,
+          "day": 9
+        }
+      }
     ]
   },
   {
@@ -852,6 +892,19 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "U.S. News & World Report",
+        "title": "Smoking Plus Vaping Just as Deadly as Smoking on Its Own: Study.",
+        "link": "https://www.usnews.com/news/health-news/articles/2021-01-04/smoking-plus-vaping-just-as-deadly-as-smoking-on-its-own-study",
+        "date": {
+          "raw": "January 4, 2021",
+          "year": 2021,
+          "month": 1,
+          "day": 4
+        }
+      }
     ]
   },
   {
@@ -896,7 +949,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Online Search Trends With Vaccination in the United States: June 2020 Through May 2021",
@@ -960,7 +1014,8 @@
         "lastName": "Dzaye",
         "fullName": "Omar Dzaye"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Maximum and Time-Dependent Body Mass Index and Breast Cancer Incidence Among Postmenopausal Women in the Black Women's Health Study",
@@ -1024,7 +1079,8 @@
         "lastName": "Bertrand",
         "fullName": "Kimberly A Bertrand"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The unequal burden of the Covid-19 pandemic: Capturing racial/ethnic disparities in US cause-specific mortality",
@@ -1057,6 +1113,19 @@
         "lastName": "Stokes",
         "isMe": true,
         "fullName": "Andrew C. Stokes"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Salon",
+        "title": "COVID deaths severely undercounted among communities of color, new study finds.",
+        "link": "https://www.salon.com/2021/09/27/severely-undercounted-among-communities-of-color-new-study-finds_partner/",
+        "date": {
+          "raw": "September 27, 2021",
+          "year": 2021,
+          "month": 9,
+          "day": 27
+        }
       }
     ]
   },
@@ -1101,6 +1170,19 @@
         "lastName": "Stokes",
         "isMe": true,
         "fullName": "Andrew C. Stokes"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Associated Press",
+        "title": "Death certificates reveal that US hit grim COVID milestone.",
+        "link": "https://apnews.com/article/covid-science-health-pandemics-centers-for-disease-control-and-prevention-8964acf84814e1d4d6971ce13c4af7ef",
+        "date": {
+          "raw": "May 16, 2022",
+          "year": 2022,
+          "month": 5,
+          "day": 16
+        }
       }
     ]
   },
@@ -1166,6 +1248,19 @@
         "lastName": "Bibbins-Domingo",
         "fullName": "Kirsten Bibbins-Domingo"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "San Francisco Chronicle",
+        "title": "How large was the undercount of COVID-19 deaths across California?",
+        "link": "https://www.sfchronicle.com/local/article/How-large-was-the-undercount-of-COVID-19-deaths-16210991.php",
+        "date": {
+          "raw": "May 31, 2021",
+          "year": 2021,
+          "month": 5,
+          "day": 31
+        }
+      }
     ]
   },
   {
@@ -1200,7 +1295,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of E-Cigarettes With Erectile Dysfunction: The Population Assessment of Tobacco and Health Study",
@@ -1279,6 +1375,19 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Forbes",
+        "title": "Vaping Associated With Over 2x The Erectile Dysfunction Risk, Study Says.",
+        "link": "https://www.forbes.com/sites/brucelee/2021/12/11/vaping-associated-with-over-2x-the-erectile-dysfunction-risk-study-says/",
+        "date": {
+          "raw": "December 11, 2021",
+          "year": 2021,
+          "month": 12,
+          "day": 11
+        }
+      }
     ]
   },
   {
@@ -1308,7 +1417,8 @@
         "lastName": "Weinstein",
         "fullName": "Maxine Weinstein"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Loneliness, social isolation, and all-cause mortality in the United States",
@@ -1347,7 +1457,8 @@
         "lastName": "Weinstein",
         "fullName": "Maxine A Weinstein"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Mortality following workplace injury: Quantitative bias analysis",
@@ -1401,7 +1512,8 @@
         "lastName": "Boden",
         "fullName": "Leslie I Boden"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Cannabis vaping among adults in the United States: Prevalence, trends, and association with high-risk behaviors and adverse respiratory conditions",
@@ -1470,7 +1582,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Lipid profiles in users of combustible and electronic cigarettes",
@@ -1544,7 +1657,8 @@
         "lastName": "Hamburg",
         "fullName": "Naomi M Hamburg"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Obesity and the Risk of Incident Chronic Opioid Use in Rheumatoid Arthritis",
@@ -1603,7 +1717,8 @@
         "lastName": "Michaud",
         "fullName": "Kaleb Michaud"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Occupational Exposure to Inhaled Agents in Operating Rooms With Incidence of Chronic Obstructive Pulmonary Disease Among US Female Nurses",
@@ -1647,7 +1762,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Health Care Factors With Excess Deaths Not Assigned to COVID-19 in the US",
@@ -1690,6 +1806,30 @@
         "firstName": "Samuel H",
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "The Atlantic",
+        "title": "How did this many deaths become normal?",
+        "link": "https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/",
+        "date": {
+          "raw": "March 8, 2022",
+          "year": 2022,
+          "month": 3,
+          "day": 8
+        }
+      },
+      {
+        "name": "Scientific American",
+        "title": "The Pandemic's Hidden Toll is Revealed in Excess Death Counts.",
+        "link": "https://www.scientificamerican.com/article/the-pandemics-hidden-toll-is-revealed-in-excess-death-counts/",
+        "date": {
+          "raw": "September 1, 2021",
+          "year": 2021,
+          "month": 9,
+          "day": 1
+        }
       }
     ]
   },
@@ -1930,7 +2070,8 @@
         "lastName": "Manne-Goehler",
         "fullName": "Jennifer Manne-Goehler"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Excess Deaths During the COVID-19 Pandemic: Implications for US Death Investigation Systems",
@@ -1964,7 +2105,8 @@
         "lastName": "Bibbins-Domingo",
         "fullName": "Kirsten Bibbins-Domingo"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "E-cigarette, cigarette, and cannabis use patterns as a function of sexual identity in a sample of Southern California young adults",
@@ -2013,7 +2155,8 @@
         "lastName": "Pang",
         "fullName": "Raina D Pang"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Tobacco Use Prevalence and Transitions From 2013 to 2018 Among Adults With a History of Cardiovascular Disease",
@@ -2067,7 +2210,8 @@
         "lastName": "Rodriguez",
         "fullName": "Carlos J Rodriguez"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Progress, stasis, and regression through the hypertension care continuum: Longitudinal evidence from population-based cohort data in four populous middle-income countries",
@@ -2126,7 +2270,8 @@
         "lastName": "Sudharsanan",
         "fullName": "Nikkil Sudharsanan"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "COVID-19 and excess mortality in the United States: A county-level analysis",
@@ -2169,6 +2314,30 @@
         "firstName": "Samuel H",
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "USA Today",
+        "title": "The US is undercounting COVID deaths, researchers say. Now they have a tool to figure out why.",
+        "link": "https://www.usatoday.com/story/news/nation/2021/12/09/covid-death-count-america-cdc/6435124001/",
+        "date": {
+          "raw": "December 9, 2021",
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        }
+      },
+      {
+        "name": "Stat",
+        "title": "Undercounting of Covid-19 deaths is greatest in pro-Tump areas, analysis shows.",
+        "link": "https://www.statnews.com/2021/01/25/undercounting-covid-19-deaths-greatest-in-pro-trump-areas-analysis-shows/",
+        "date": {
+          "raw": "January 25, 2021",
+          "year": 2021,
+          "month": 1,
+          "day": 25
+        }
       }
     ]
   },
@@ -2259,7 +2428,8 @@
         "lastName": "Robertson",
         "fullName": "Rose Marie Robertson"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Monitoring Information-Seeking Patterns and Obesity Prevalence in Africa With Internet Search Data: Observational Study",
@@ -2313,7 +2483,8 @@
         "lastName": "Nsoesie",
         "fullName": "Elaine O Nsoesie"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Obesity Progression Between Young Adulthood and Midlife and Incident Arthritis: A Retrospective Cohort Study of US Adults",
@@ -2372,7 +2543,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Cigarette and Electronic Cigarette Use Patterns With Levels of Inflammatory and Oxidative Stress Biomarkers Among US Adults: Population Assessment of Tobacco and Health Study",
@@ -2451,7 +2623,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Coming Out as Lesbian, Gay, and Bisexual+ and Risk of Cigarette Smoking in a Nationally Representative Sample of Youth and Young Adults",
@@ -2500,7 +2673,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Heart disease and stroke statistics—2021 update: a report from the American Heart Association",
@@ -2537,7 +2711,8 @@
         "name": "others",
         "fullName": "others"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Increases in BMI and chronic pain for US adults in midlife, 1992 to 2016",
@@ -2596,7 +2771,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Estimates of the Association of Dementia With US Mortality Levels Using Linked Survey and Mortality Records",
@@ -2645,7 +2821,8 @@
         "lastName": "Crimmins",
         "fullName": "Eileen M Crimmins"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Declines in Electronic Cigarette Use Among US Youth in the Era of COVID-19—A Critical Opportunity to Stop Youth Vaping in Its Tracks",
@@ -2664,7 +2841,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Electronic Cigarette Use With Incident Respiratory Conditions Among US Adults From 2013 to 2018",
@@ -2723,7 +2901,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association between country preparedness indicators and quality clinical care for cardiovascular disease risk factors in 44 lower- and middle-income countries: A multicountry analysis of survey data",
@@ -2942,7 +3121,8 @@
         "lastName": "Jaacks",
         "fullName": "Lindsay M Jaacks"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Prevalence, Trends, and Distribution of Nicotine and Marijuana use in E-cigarettes among US adults: The Behavioral Risk Factor Surveillance System 2016–2018",
@@ -3031,7 +3211,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Trends in the Age of Cigarette Smoking Initiation Among Young Adults in the US From 2002 to 2018",
@@ -3090,7 +3271,8 @@
         "lastName": "Goodwin",
         "fullName": "Renee D Goodwin"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Trends in e-Cigarette Use in Adults in the United States, 2016-2018",
@@ -3139,7 +3321,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "E-Cigarette Use Patterns and High-Risk Behaviors in Pregnancy: Behavioral Risk Factor Surveillance System, 2016-2018",
@@ -3228,7 +3411,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US",
@@ -3287,6 +3471,30 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "U.S. News & World Report",
+        "title": "Don't Wait to Lose Weight: Shedding Obesity in Youth Extends Life.",
+        "link": "https://consumer.healthday.com/vitamins-and-nutrition-information-27/dieting-to-lose-weight-health-news-195/don-t-wait-to-lose-weight-shedding-obesity-in-youth-extends-life-760451.html",
+        "date": {
+          "raw": "August 17, 2020",
+          "year": 2020,
+          "month": 8,
+          "day": 17
+        }
+      },
+      {
+        "name": "Forbes",
+        "title": "A New Study Says It's Better to Lose Weight Earlier in Life.",
+        "link": "https://www.forbes.com/sites/mishagajewski/2020/08/15/a-new-study-says-its-better-to-lose-weight-earlier-in-life/",
+        "date": {
+          "raw": "August 15, 2020",
+          "year": 2020,
+          "month": 8,
+          "day": 15
+        }
+      }
     ]
   },
   {
@@ -3331,7 +3539,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Alterations in Vascular Function Associated With the Use of Combustible and Electronic Cigarettes",
@@ -3405,7 +3614,8 @@
         "lastName": "Hamburg",
         "fullName": "Naomi M Hamburg"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Diabetes Prevalence and Its Relationship With Education, Wealth, and BMI in 29 Low- and Middle-Income Countries",
@@ -3634,7 +3844,8 @@
         "lastName": "Manne-Goehler",
         "fullName": "Jennifer Manne-Goehler"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of body mass index and osteoarthritis with healthcare expenditures and utilization",
@@ -3683,7 +3894,8 @@
         "lastName": "Hsiao",
         "fullName": "Chia-Wen Hsiao"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Obesity With Prescription Opioids for Painful Conditions in Patients Seeking Primary Care in the US",
@@ -3737,7 +3949,8 @@
         "lastName": "Neogi",
         "fullName": "Tuhina Neogi"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Changes in mental health, pain, and drug misuse since the mid-1990s: Is there a link?",
@@ -3766,7 +3979,8 @@
         "lastName": "Weinstein",
         "fullName": "Maxine Weinstein"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "It's Absolutely Relative: The Effect of Age on the BMI-Mortality Relationship in Postmenopausal Women",
@@ -3840,7 +4054,8 @@
         "lastName": "Wactawski-Wende",
         "fullName": "Jean Wactawski-Wende"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Universal coverage but unmet need: National and regional estimates of attrition across the diabetes care continuum in Thailand",
@@ -3899,7 +4114,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Heart disease and stroke statistics—2020 update: a report from the American Heart Association",
@@ -3937,7 +4153,8 @@
         "name": "others",
         "fullName": "others"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "American Heart Association Council on E, prevention statistics C, stroke statistics S: heart disease and stroke statistics-2020 update: a report from the …",
@@ -3974,7 +4191,8 @@
         "name": "others",
         "fullName": "others"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The role of flavors in vaping initiation and satisfaction among U.S. adults",
@@ -4063,7 +4281,8 @@
         "lastName": "Payne",
         "fullName": "Thomas J Payne"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association Between e-Cigarette Use and Depression in the Behavioral Risk Factor Surveillance System, 2016-2017",
@@ -4142,7 +4361,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Predictors of dental care use, unmet dental care need, and barriers to unmet need among women: results from NHANES, 2011 to 2016",
@@ -4186,7 +4406,8 @@
         "lastName": "Villa",
         "fullName": "Alessandro Villa"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Trends in Prescription Analgesic Use Among Adults With Musculoskeletal Conditions in the United States, 1999-2016",
@@ -4225,7 +4446,8 @@
         "lastName": "Neogi",
         "fullName": "Tuhina Neogi"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Effects of Weight History on the Association Between Directly Measured Adiposity and Mortality in Older Adults",
@@ -4264,7 +4486,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Growth curve modelling to determine distinct BMI trajectory groups in HIV-positive adults on antiretroviral therapy in South Africa",
@@ -4333,7 +4556,8 @@
         "lastName": "Fox",
         "fullName": "Matthew P Fox"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The Effects of Reverse Causality and Selective Attrition on the Relationship Between Body Mass Index and Mortality in Postmenopausal Women",
@@ -4412,7 +4636,8 @@
         "lastName": "Wactawski-Wende",
         "fullName": "Jean Wactawski-Wende"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The contribution of obesity to prescription opioid use in the United States",
@@ -4496,7 +4721,8 @@
         "lastName": "Manson",
         "fullName": "Joann E Manson"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Current and early life weight and associations with mortality in rheumatoid arthritis",
@@ -4545,7 +4771,8 @@
         "lastName": "Michaud",
         "fullName": "Kaleb Michaud"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Socioeconomic and Racial/Ethnic Differences in E-Cigarette Uptake Among Cigarette Smokers: Longitudinal Analysis of the Population Assessment of Tobacco and Health (PATH) Study",
@@ -4574,7 +4801,8 @@
         "lastName": "Brooks",
         "fullName": "Daniel R Brooks"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The state of hypertension care in 44 low-income and middle-income countries: a cross-sectional study of nationally representative individual-level data from 1·1 million adults",
@@ -4803,7 +5031,8 @@
         "lastName": "Jaacks",
         "fullName": "Lindsay M Jaacks"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association Between E-Cigarette Use and Cardiovascular Disease Among Never and Current Combustible-Cigarette Smokers",
@@ -4877,7 +5106,8 @@
         "lastName": "Blaha",
         "fullName": "Michael J Blaha"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Consumption of Fruits and Vegetables Among Individuals 15 Years and Older in 28 Low- and Middle-Income Countries",
@@ -5021,7 +5251,8 @@
         "lastName": "Jaacks",
         "fullName": "Lindsay M Jaacks"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Assessment of obesity prevalence and validity of obesity diagnoses coded in claims data for selected surgical populations: A retrospective, observational study",
@@ -5075,7 +5306,8 @@
         "lastName": "Johnston",
         "fullName": "Stephen S Johnston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Body mass index and insulin use as identifiers of high‐cost patients with type 2 diabetes: A retrospective analysis of electronic health records linked to insurance claims data",
@@ -5124,7 +5356,8 @@
         "lastName": "Scamuffa",
         "fullName": "Robin Scamuffa"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Trends in prescription pain management among us adults with arthritis or back pain, 1999-2014",
@@ -5158,7 +5391,8 @@
         "lastName": "Neogi",
         "fullName": "T Neogi"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Is the association of body mass index with opioid use mediated by number of painful joints or depressive symptoms: the multicenter osteoarthritis study",
@@ -5222,7 +5456,8 @@
         "lastName": "Neogi",
         "fullName": "T Neogi"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Health system performance for people with diabetes in 28 low- and middle-income countries: A cross-sectional study of nationally representative surveys",
@@ -5426,7 +5661,8 @@
         "lastName": "Jaacks",
         "fullName": "Lindsay M Jaacks"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Electronic Cigarette Use With Subsequent Initiation of Tobacco Cigarettes in US Youths",
@@ -5474,6 +5710,19 @@
         "lastName": "Stokes",
         "isMe": true,
         "fullName": "Andrew C. Stokes"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "U.S. News & World Report",
+        "title": "Vaping May Pose Big Risk for Smoking in Otherwise 'Low-Risk' Kids.",
+        "link": "https://consumer.healthday.com/cancer-information-5/electronic-cigarettes-970/vaping-may-pose-big-risk-for-smoking-in-otherwise-low-risk-kids-742205.html",
+        "date": {
+          "raw": "February 1, 2019",
+          "year": 2019,
+          "month": 2,
+          "day": 1
+        }
       }
     ]
   },
@@ -5534,7 +5783,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Lifestyle and socio-economic inequalities in diabetes prevalence in South Africa: A decomposition analysis",
@@ -5573,7 +5823,8 @@
         "lastName": "Groot",
         "fullName": "Wim Groot"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Heart disease and stroke statistics—2019 update: a report from the American Heart Association",
@@ -5610,7 +5861,8 @@
         "name": "others",
         "fullName": "others"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Effect of Diabetes on Life Expectancy in the United States by Race and Ethnicity",
@@ -5644,6 +5896,19 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Time Magazine",
+        "title": "Obesity shaved almost a year off US life expectancy, study says.",
+        "link": "https://time.com/5100737/obesity-lowering-life-expectancy-united-states/",
+        "date": {
+          "raw": "January 15, 2018",
+          "year": 2018,
+          "month": 1,
+          "day": 15
+        }
+      }
     ]
   },
   {
@@ -5673,7 +5938,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Association of Obesity With Mortality Over 24 Years of Weight History: Findings From the Framingham Heart Study",
@@ -5707,7 +5973,8 @@
         "lastName": "Liu",
         "fullName": "Ching-Ti Liu"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Prevalence, incidence, predictors, treatment, and control of hypertension among HIV-positive adults on antiretroviral treatment in public sector treatment programs in South Africa",
@@ -5781,7 +6048,8 @@
         "lastName": "Rosen",
         "fullName": "Sydney Rosen"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Stratified Probabilistic Bias Analysis for Body Mass Index-related Exposure Misclassification in Postmenopausal Women",
@@ -5880,7 +6148,8 @@
         "lastName": "Wactawski-Wende",
         "fullName": "Jean Wactawski-Wende"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Representation of obese participants in obesity-related cancer randomized trials",
@@ -5909,7 +6178,8 @@
         "lastName": "Trinquart",
         "fullName": "L Trinquart"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Electronic Cigarette Use Prevalence, Associated Factors, and Pattern by Cigarette Smoking Status in the United States From NHANES (National Health and Nutrition Examination Survey) 2013-2014",
@@ -5988,7 +6258,8 @@
         "lastName": "Nasir",
         "fullName": "Khurram Nasir"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Prevalence and Determinants of Engagement with Obesity Care in the United States",
@@ -6047,7 +6318,8 @@
         "lastName": "Scamuffa",
         "fullName": "Robin F Scamuffa"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Obesity Progression Between Young Adulthood and Midlife and Incident Diabetes: A Retrospective Cohort Study of U.S. Adults",
@@ -6106,7 +6378,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Electronic Cigarette Prevalence and Patterns of Use in Adults with a History of Cardiovascular Disease in the United States",
@@ -6160,7 +6433,8 @@
         "lastName": "Benjamin",
         "fullName": "Emelia J Benjamin"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Is BMI a valid measure of obesity in postmenopausal women?",
@@ -6194,7 +6468,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Understanding the determinants of hemoglobin and iron status: adolescent-adult women comparisons in SANHANES-1",
@@ -6253,7 +6528,8 @@
         "lastName": "Labadarios",
         "fullName": "Demetre Labadarios"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The role of obesity in exceptionally slow US mortality improvement",
@@ -6282,7 +6558,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Health Systems Performance for Diabetes in 25 Low-and Middle-Income Countries (LMICs), 2005–2016",
@@ -6339,7 +6616,8 @@
         "name": "Others",
         "fullName": "Others"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Prevalence and unmet need for diabetes care across the care continuum in a national sample of South African adults: Evidence from the SANHANES-1, 2011-2012",
@@ -6408,7 +6686,8 @@
         "lastName": "Rosen",
         "fullName": "Sydney Rosen"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The contribution of rising adiposity to the increasing prevalence of diabetes in the United States",
@@ -6432,7 +6711,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Quantifying unmet need for hypertension care in South Africa through a care cascade: evidence from the SANHANES, 2011-2012",
@@ -6481,7 +6761,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Weight History and All-Cause and Cause-Specific Mortality in Three Prospective Cohort Studies",
@@ -6530,6 +6811,30 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "NPR All Things Considered",
+        "title": "Carrying some extra pounds may not be good after all.",
+        "link": "https://news.wgcu.org/2017-04-03/carrying-some-extra-pounds-may-not-be-good-after-all",
+        "date": {
+          "raw": "April 3, 2017",
+          "year": 2017,
+          "month": 4,
+          "day": 3
+        }
+      },
+      {
+        "name": "USA Today",
+        "title": "A little extra fat is not a survival advantage, study says.",
+        "link": "https://www.usatoday.com/story/news/2017/04/03/sorry-little-extra-fat-not-survival-advantage-study-says/99985134/",
+        "date": {
+          "raw": "April 3, 2017",
+          "year": 2017,
+          "month": 4,
+          "day": 3
+        }
+      }
     ]
   },
   {
@@ -6559,7 +6864,8 @@
         "lastName": "Preston",
         "fullName": "S H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Deaths Attributable to Diabetes in the United States: Comparison of Data Sources and Estimation Approaches",
@@ -6582,6 +6888,41 @@
         "firstName": "Samuel H",
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Washington Post",
+        "title": "Diabetes is even deadlier than we thought, study suggests.",
+        "link": "https://www.washingtonpost.com/national/health-science/diabetes-is-even-deadlier-than-we-thought-study-suggests/2017/04/07/28689b94-faca-11e6-be05-1a3817ac21a5_story.html",
+        "date": {
+          "raw": "April 7, 2017",
+          "year": 2017,
+          "month": 4,
+          "day": 7
+        }
+      },
+      {
+        "name": "Vox",
+        "title": "Diabetes may be a major, overlooked reason Americans are now dying earlier.",
+        "link": "https://www.vox.com/policy-and-politics/2017/1/25/14383580/diabetes-americans-dying-earlier-mortality",
+        "date": {
+          "raw": "January 25, 2017",
+          "year": 2017,
+          "month": 1,
+          "day": 25
+        }
+      },
+      {
+        "name": "US News & World Report",
+        "title": "Diabetes kills more Americans than had been thought.",
+        "link": "https://consumer.healthday.com/senior-citizen-information-31/misc-death-and-dying-news-172/diabetes-kills-more-americans-than-had-been-thought-719030.html",
+        "date": {
+          "raw": "January 25, 2017",
+          "year": 2017,
+          "month": 1,
+          "day": 25
+        }
       }
     ]
   },
@@ -6607,6 +6948,30 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "The Atlantic",
+        "title": "Is it unhealthy to be overweight?",
+        "link": "https://www.theatlantic.com/health/archive/2017/08/is-fat-bad/536652/",
+        "date": {
+          "raw": "August 14, 2017",
+          "year": 2017,
+          "month": 8,
+          "day": 14
+        }
+      },
+      {
+        "name": "Vox",
+        "title": "The obesity paradox: Why Coke is promoting a theory that being fat won't hurt your health.",
+        "link": "https://www.vox.com/2015/10/20/9572295/coca-cola-obesity-paradox#:~:text=This%20idea%20is%20known%20as,their%20normal%20or%20thin%20counterparts.",
+        "date": {
+          "raw": "October 20, 2015",
+          "year": 2015,
+          "month": 10,
+          "day": 20
+        }
+      }
     ]
   },
   {
@@ -6630,6 +6995,19 @@
         "firstName": "Yu",
         "lastName": "Ni",
         "fullName": "Yu Ni"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Los Angeles Times",
+        "title": "When it comes to losing weight and getting healthy, procrastination kills.",
+        "link": "https://www.latimes.com/science/sciencenow/la-sci-sn-history-overweight-death-20160105-story.html",
+        "date": {
+          "raw": "January 6, 2016",
+          "year": 2016,
+          "month": 1,
+          "day": 6
+        }
       }
     ]
   },
@@ -6655,7 +7033,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Diabetes diagnosis and care in sub-Saharan Africa: pooled analysis of individual data from 12 countries",
@@ -6829,7 +7208,8 @@
         "lastName": "Bärnighausen",
         "fullName": "Till Bärnighausen"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "How smoking affects the proportion of deaths attributable to obesity: assessing the role of relative risks and weight distributions",
@@ -6853,7 +7233,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Revealing the burden of obesity using weight histories",
@@ -6877,7 +7258,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Smoking and reverse causation create an obesity paradox in cardiovascular disease",
@@ -6901,7 +7283,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Effects of categorization and self-report bias on estimates of the association between obesity and mortality",
@@ -6930,7 +7313,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Weight Loss, the Obesity Paradox, and the Risk of Death in Rheumatoid Arthritis",
@@ -6989,7 +7373,8 @@
         "lastName": "Mikuls",
         "fullName": "Ted R Mikuls"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Factors responsible for mortality variation in the United States: A latent variable analysis",
@@ -7018,7 +7403,8 @@
         "lastName": "Preston",
         "fullName": "Samuel Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Obesity paradox: conditioning on disease enhances biases in estimating the mortality risks of obesity",
@@ -7042,6 +7428,19 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Vox",
+        "title": "The author of a new obesity book says we shouldn't try to lose weight. She's wrong.",
+        "link": "https://www.vox.com/2015/3/25/8290261/obesity-paradox",
+        "date": {
+          "raw": "March 25, 2015",
+          "year": 2015,
+          "month": 3,
+          "day": 25
+        }
+      }
     ]
   },
   {
@@ -7060,6 +7459,30 @@
         "lastName": "Stokes",
         "isMe": true,
         "fullName": "Andrew C. Stokes"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Reporting on Health USC Annenberg",
+        "title": "For the Healthiest Weight, the Past Is As Important As the Present.",
+        "link": "https://centerforhealthjournalism.org/2014/08/15/overweight-not-necessarily-healthiest-weight-all",
+        "date": {
+          "raw": "August 18, 2014",
+          "year": 2014,
+          "month": 8,
+          "day": 18
+        }
+      },
+      {
+        "name": "The Philadelphia Inquirer",
+        "title": "Check Up: New study recalculates weight's effect on mortality risk.",
+        "link": "https://www.inquirer.com/philly/health/20140413_Check_Up_.html",
+        "date": {
+          "raw": "April 13, 2014",
+          "year": 2014,
+          "month": 4,
+          "day": 13
+        }
       }
     ]
   },
@@ -7095,6 +7518,19 @@
         "lastName": "Cao",
         "fullName": "Bochen Cao"
       }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "Center for Retirement Research at Boston College",
+        "title": "How Will More Obesity and Less Smoking Affect Life Expectancy?",
+        "link": "https://crr.bc.edu/briefs/how-will-more-obesity-and-less-smoking-affect-life-expectancy/",
+        "date": {
+          "raw": "January 14, 2014",
+          "year": 2014,
+          "month": 1,
+          "day": 14
+        }
+      }
     ]
   },
   {
@@ -7129,7 +7565,8 @@
         "lastName": "Cao",
         "fullName": "B Cao"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "The dynamics of diabetes among birth cohorts in the US",
@@ -7158,7 +7595,8 @@
         "lastName": "Preston",
         "fullName": "S H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Re: “Obesity and US Mortality Risk Over the Adult Life Course”",
@@ -7182,7 +7620,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Mortality and excess risk in US adults with pre-diabetes and diabetes: a comparison of two nationally representative cohorts, 1988–2006",
@@ -7206,7 +7645,8 @@
         "lastName": "Mehta",
         "fullName": "Neil K Mehta"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Population Change among the Elderly: International Patterns",
@@ -7230,7 +7670,8 @@
         "lastName": "Preston",
         "fullName": "Samuel H Preston"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Modeling obesity histories in cohort analyses of health and mortality",
@@ -7259,7 +7700,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Sources of Population Aging in More and Less Developed Countries",
@@ -7283,7 +7725,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Contribution of obesity to international differences in life expectancy",
@@ -7306,6 +7749,19 @@
         "lastName": "Stokes",
         "isMe": true,
         "fullName": "Andrew C. Stokes"
+      }
+    ],
+    "mediaCoverage": [
+      {
+        "name": "The Philadelphia Inquirer",
+        "title": "Check Up: National Health Issue: Americans are Growing Fatter Younger.",
+        "link": "",
+        "date": {
+          "raw": "October 31, 2011",
+          "year": 2011,
+          "month": 10,
+          "day": 31
+        }
       }
     ]
   },
@@ -7356,7 +7812,8 @@
         "lastName": "Gakidou",
         "fullName": "Emmanuela Gakidou"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Body-mass index and mortality among white adults",
@@ -7375,7 +7832,8 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ]
+    ],
+    "mediaCoverage": []
   },
   {
     "title": "Orphanhood and the Living Arrangements of Children in Sub-Saharan Africa",
@@ -7409,6 +7867,7 @@
         "lastName": "Tiererova",
         "fullName": "Lucia Tiererova"
       }
-    ]
+    ],
+    "mediaCoverage": []
   }
 ]
