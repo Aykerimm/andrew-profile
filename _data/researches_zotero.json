@@ -27,19 +27,6 @@
         "name": "Jonathon P. Leider",
         "fullName": "Jonathon P. Leider"
       }
-    ],
-    "mediaCoverage": [
-      {
-        "name": "The New York Times",
-        "title": "During the Omicron Wave, Death Rates Soared for Older People.",
-        "link": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html",
-        "date": {
-          "raw": "May 31, 2022",
-          "year": 2022,
-          "month": 5,
-          "day": 31
-        }
-      }
     ]
   },
   {
@@ -406,17 +393,7 @@
       }
     ],
     "mediaCoverage": [
-      {
-        "name": "USA Today",
-        "title": "Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19.",
-        "link": "https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/",
-        "date": {
-          "raw": "December 26, 2021",
-          "year": 2021,
-          "month": 12,
-          "day": 26
-        }
-      }
+      
     ]
   },
   {
@@ -827,17 +804,6 @@
       }
     ],
     "mediaCoverage": [
-      {
-        "name": "The Philadelphia Tribune",
-        "title": "Smoking both traditional and e-cigarettes may carry same heart risks as cigarettes alone.",
-        "link": "https://www.phillytrib.com/news/health/smoking-both-traditional-and-e-cigarettes-may-carry-same-heart-risks-as-cigarettes-alone/article_0d498df4-51eb-535f-8160-e10d7cac7fd4.html",
-        "date": {
-          "raw": "May 9, 2022",
-          "year": 2022,
-          "month": 5,
-          "day": 9
-        }
-      }
     ]
   },
   {
@@ -904,6 +870,17 @@
           "month": 1,
           "day": 4
         }
+      },
+      {
+        "name": "The Philadelphia Tribune",
+        "title": "Smoking both traditional and e-cigarettes may carry same heart risks as cigarettes alone.",
+        "link": "https://www.phillytrib.com/news/health/smoking-both-traditional-and-e-cigarettes-may-carry-same-heart-risks-as-cigarettes-alone/article_0d498df4-51eb-535f-8160-e10d7cac7fd4.html",
+        "date": {
+          "raw": "May 9, 2022",
+          "year": 2022,
+          "month": 5,
+          "day": 9
+        }
       }
     ]
   },
@@ -950,7 +927,19 @@
         "fullName": "Samuel H Preston"
       }
     ],
-    "mediaCoverage": []
+    "mediaCoverage": [
+      {
+        "name": "The New York Times",
+        "title": "During the Omicron Wave, Death Rates Soared for Older People.",
+        "link": "https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html",
+        "date": {
+          "raw": "May 31, 2022",
+          "year": 2022,
+          "month": 5,
+          "day": 31
+        }
+      }
+    ]
   },
   {
     "title": "Association of Online Search Trends With Vaccination in the United States: June 2020 Through May 2021",
@@ -1171,8 +1160,7 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ],
-    "mediaCoverage": [
+    ],"mediaCoverage": [
       {
         "name": "Associated Press",
         "title": "Death certificates reveal that US hit grim COVID milestone.",
@@ -1183,7 +1171,117 @@
           "month": 5,
           "day": 16
         }
-      }
+      },
+      {
+        "name": "The Atlantic",
+        "title": "How did this many deaths become normal?",
+        "link": "https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/",
+        "date": {
+          "raw": "March 8, 2022",
+          "year": 2022,
+          "month": 3,
+          "day": 8
+        }
+      },
+      {
+        "name": "USA Today",
+        "title": "Uncounted: Inaccurate death certificates across the country hide the true toll of COVID-19.",
+        "link": "https://www.usatoday.com/in-depth/news/nation/2021/12/22/covid-deaths-obscured-inaccurate-death-certificates/8899157002/",
+        "date": {
+          "raw": "December 26, 2021",
+          "year": 2021,
+          "month": 12,
+          "day": 26
+        }
+      },
+       {
+        "name": "USA Today",
+        "title": "The US is undercounting COVID deaths, researchers say. Now they have a tool to figure out why.",
+        "link": "https://www.usatoday.com/story/news/nation/2021/12/09/covid-death-count-america-cdc/6435124001/",
+        "date": {
+          "raw": "December 9, 2021",
+          "year": 2021,
+          "month": 12,
+          "day": 9
+        }
+      },
+      {
+        "name": "Scientific American",
+        "title": "The Pandemic's Hidden Toll is Revealed in Excess Death Counts.",
+        "link": "https://www.scientificamerican.com/article/the-pandemics-hidden-toll-is-revealed-in-excess-death-counts/",
+        "date": {
+          "raw": "September 1, 2021",
+          "year": 2021,
+          "month": 9,
+          "day": 1
+        }
+      },
+      {
+        "name": "Scientific American",
+        "title": "Excess Deaths Reveal the Pandemic's Hidden Toll in Some U.S. Counties.",
+        "link": "https://www.scientificamerican.com/article/excess-deaths-reveal-the-pandemics-hidden-toll-in-some-u-s-counties/",
+        "date": {
+            "raw": "June 2, 2021",
+            "year": 2021,
+            "month": 6,
+            "day": 2
+        }   
+      },
+      {
+        "name": "San Francisco Chronicle",
+        "title": "How large was the undercount of COVID-19 deaths across California?",
+        "link": "https://www.sfchronicle.com/local/article/How-large-was-the-undercount-of-COVID-19-deaths-16210991.php",
+        "date": {
+          "raw": "May 31, 2021",
+          "year": 2021,
+          "month": 5,
+          "day": 31
+        }
+      },
+      {
+        "name": "Stat",
+        "title": "Undercounting of Covid-19 deaths is greatest in pro-Tump areas, analysis shows.",
+        "link": "https://www.statnews.com/2021/01/25/undercounting-covid-19-deaths-greatest-in-pro-trump-areas-analysis-shows/",
+        "date": {
+          "raw": "January 25, 2021",
+          "year": 2021,
+          "month": 1,
+          "day": 25
+        }
+      },
+      {
+        "name": "Sun Sentinel",
+        "title": "COVID-19 has been more deadly in Florida than reported, especially in rural counties, study shows.",
+        "link": "https://www.sun-sentinel.com/coronavirus/fl-ne-covid-deaths-florida-study-ss-prem-20210331-a4rnsenzajdd5nnwzm2fkg5g5y-story.html",
+        "date": {
+          "raw": "March 31, 2021",
+          "year": 2021,
+          "month": 3,
+          "day": 31
+        }
+      },
+      {
+        "name": "Texas Observer",
+        "title": "How Flawed Death Investigations Can Leave Texas Covid-19 Deaths Uncounted",
+        "link": "https://www.texasobserver.org/how-flawed-death-investigations-can-leave-texas-covid-19-deaths-uncounted/",
+        "date": {
+          "raw": "March 30, 2021",
+          "year": 2021,
+          "month": 3,
+          "day": 30
+        }
+      },
+      {
+        "name": "BU Today",
+        "title": "Is Pro-Trump Bias Leading Some US Counties to Lowball Covid-19 Deaths?",
+        "link": "https://www.bu.edu/articles/2021/is-pro-trump-bias-leading-some-us-counties-to-lowball-covid-19-deaths/",
+        "date": {
+          "raw": "February 21, 2021",
+          "year": 2021,
+          "month": 2,
+          "day": 21
+        }
+      },                                             
     ]
   },
   {
@@ -1250,17 +1348,6 @@
       }
     ],
     "mediaCoverage": [
-      {
-        "name": "San Francisco Chronicle",
-        "title": "How large was the undercount of COVID-19 deaths across California?",
-        "link": "https://www.sfchronicle.com/local/article/How-large-was-the-undercount-of-COVID-19-deaths-16210991.php",
-        "date": {
-          "raw": "May 31, 2021",
-          "year": 2021,
-          "month": 5,
-          "day": 31
-        }
-      }
     ]
   },
   {
@@ -1809,28 +1896,7 @@
       }
     ],
     "mediaCoverage": [
-      {
-        "name": "The Atlantic",
-        "title": "How did this many deaths become normal?",
-        "link": "https://www.theatlantic.com/health/archive/2022/03/covid-us-death-rate/626972/",
-        "date": {
-          "raw": "March 8, 2022",
-          "year": 2022,
-          "month": 3,
-          "day": 8
-        }
-      },
-      {
-        "name": "Scientific American",
-        "title": "The Pandemic's Hidden Toll is Revealed in Excess Death Counts.",
-        "link": "https://www.scientificamerican.com/article/the-pandemics-hidden-toll-is-revealed-in-excess-death-counts/",
-        "date": {
-          "raw": "September 1, 2021",
-          "year": 2021,
-          "month": 9,
-          "day": 1
-        }
-      }
+      
     ]
   },
   {
@@ -2317,28 +2383,6 @@
       }
     ],
     "mediaCoverage": [
-      {
-        "name": "USA Today",
-        "title": "The US is undercounting COVID deaths, researchers say. Now they have a tool to figure out why.",
-        "link": "https://www.usatoday.com/story/news/nation/2021/12/09/covid-death-count-america-cdc/6435124001/",
-        "date": {
-          "raw": "December 9, 2021",
-          "year": 2021,
-          "month": 12,
-          "day": 9
-        }
-      },
-      {
-        "name": "Stat",
-        "title": "Undercounting of Covid-19 deaths is greatest in pro-Tump areas, analysis shows.",
-        "link": "https://www.statnews.com/2021/01/25/undercounting-covid-19-deaths-greatest-in-pro-trump-areas-analysis-shows/",
-        "date": {
-          "raw": "January 25, 2021",
-          "year": 2021,
-          "month": 1,
-          "day": 25
-        }
-      }
     ]
   },
   {

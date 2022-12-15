@@ -29,8 +29,22 @@
                 "isMe": true
             }
         ],
-        "url": "https://www.medrxiv.org/content/10.1101/2022.07.20.22277872v1"
+        "url": "https://www.medrxiv.org/content/10.1101/2022.07.20.22277872v1",
+        "mediaCoverage": [
+            {
+                "name": "The New York Times",
+                "title": "In Rural America, Covid Hits Black and Hispanic People Hardest.",
+                "link": "https://www.nytimes.com/2022/07/28/health/covid-deaths-black-hispanic-rural.html",
+                "date": {
+                    "raw": "July 28, 2022",
+                    "year": 2022,
+                    "month": 7,
+                    "day": 28
+                }
+            }
+        ]
     },
+
     {
         "title": "Missing Americans: Early Death in the United States, 1933-2021",
         "date": {
@@ -64,7 +78,20 @@
                 "fullName": "Steffie Woolhandler"
             }
         ],
-        "url": "https://www.medrxiv.org/content/10.1101/2022.06.29.22277065v2.full"
+        "url": "https://www.medrxiv.org/content/10.1101/2022.06.29.22277065v2.full",
+        "mediaCoverage": [
+            {
+                "name": "The Atlantic",
+                "title": "America Was in an Early-Death Crisis Long Before COVID",
+                "link": "https://www.theatlantic.com/health/archive/2022/07/us-life-span-mortality-rates/670591/",
+                "date": {
+                    "raw": "July 21, 2022",
+                    "year": 2022,
+                    "month": 7,
+                    "day": 21
+                }
+            }
+        ]
     },
     {
         "title": "Monthly excess mortality across counties in the United States during the Covid-19 pandemic, March 2020 to February 2022",
@@ -114,17 +141,6 @@
         "url": "https://www.medrxiv.org/content/10.1101/2022.04.23.22274192v4",
         "mediaCoverage": [
             {
-                "name": "Scientific American",
-                "title": "Excess Deaths Reveal the Pandemic's Hidden Toll in Some U.S. Counties.",
-                "link": "https://www.scientificamerican.com/article/excess-deaths-reveal-the-pandemics-hidden-toll-in-some-u-s-counties/",
-                "date": {
-                    "raw": "June 2, 2021",
-                    "year": 2021,
-                    "month": 6,
-                    "day": 2
-                }
-            },
-            {
                 "name": "Boston Globe",
                 "title": "BU professor: True death toll of COVID-19 pandemic could now be as high as 1.22 million in United States.",
                 "link": "https://www.bostonglobe.com/2022/05/05/nation/bu-professor-true-death-toll-covid-19-pandemic-could-now-be-high-122-million-united-states/",
@@ -133,6 +149,17 @@
                     "year": 2022,
                     "month": 5,
                     "day": 5
+                }
+            },
+            {
+                "name": "Scientific American",
+                "title": "What One Million COVID Dead Mean for the U.S.'s Future.",
+                "link": "https://www.scientificamerican.com/article/what-one-million-covid-dead-mean-for-the-u-s-s-future/",
+                "date": {
+                    "raw": "March 29, 2022",
+                    "year": 2022,
+                    "month": 3,
+                    "day": 29
                 }
             }
         ]
@@ -175,17 +202,7 @@
         ],
         "url": "https://www.medrxiv.org/content/10.1101/2022.03.29.22273085v2",
         "mediaCoverage": [
-            {
-                "name": "Scientific American",
-                "title": "What One Million COVID Dead Mean for the U.S.'s Future.",
-                "link": "https://www.scientificamerican.com/article/what-one-million-covid-dead-mean-for-the-u-s-s-future/",
-                "date": {
-                    "raw": "March 29, 2022",
-                    "year": 2022,
-                    "month": 3,
-                    "day": 29
-                }
-            }
+           
         ]
     },
     {
