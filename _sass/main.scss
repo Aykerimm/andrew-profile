@@ -26,7 +26,8 @@ body {
 .container {
     margin: 16px;
     width: 800px;
-    min-width: 360px;
+    min-width: 1050px;
+    max-width: 1050px;
     display: flex;
     flex-direction: row;
 }
