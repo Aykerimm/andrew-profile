@@ -47,8 +47,8 @@ pageurl: /researches
         {% if research.mediaCoverage and research.mediaCoverage != empty %}
         <p class="research__meta research__meta-media-coverage">
             <span>
-                <span class="research__meta-media-header">Media coverage:</span>
-            {% for media in research.mediaCoverage %}
+                <span class="research__meta-media-header">Media:</span>
+                {%- for media in research.mediaCoverage -%}
                 <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
                 {%- if forloop.last != true -%}
                 ,
@@ -88,17 +88,19 @@ pageurl: /researches
             <p class="research__meta">
                 <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
             </p>
-            {% if research.mediaCoverage and research.mediaCoverage != empty %}
-            <div class="research__meta research__meta-media-coverage">
-                <span class="research__meta-media-header">Media coverage:</span>
-                {% for media in research.mediaCoverage %}
-                <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
-                {%- if forloop.last != true -%}
-                    , 
-                {%- endif -%}
-                {% endfor %}
+            {%- if research.mediaCoverage and research.mediaCoverage != empty -%}
+            <p class="research__meta research__meta-media-coverage">
+                <span>
+                    <span class="research__meta-media-header">Media:</span>
+                {%- for media in research.mediaCoverage -%}
+                    <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
+                    {%- if forloop.last != true -%}
+                        ,
+                    {%- endif -%}
+                {%- endfor -%}
                 
-            </div>
+                </span>
+            </p>
             {% endif %}
         </li>
         {% endfor %}
