@@ -45,13 +45,9 @@
 
 .research__meta-media-coverage {
     line-height: 1.2em;
-    padding-left: 1em;
-    //padding-right:1em;
-    margin-right: 0em; ;
-    word-wrap: break-word;
-    
+    padding-left: 0.5em;
 }
 
-// .research__meta-media-link {
-//     color: orange;
-// }
+.research__meta-media-link {
+    white-space: nowrap;
+}
