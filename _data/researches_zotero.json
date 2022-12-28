@@ -1103,19 +1103,6 @@
         "isMe": true,
         "fullName": "Andrew C. Stokes"
       }
-    ],
-    "mediaCoverage": [
-      {
-        "name": "Salon",
-        "title": "COVID deaths severely undercounted among communities of color, new study finds.",
-        "link": "https://www.salon.com/2021/09/27/severely-undercounted-among-communities-of-color-new-study-finds_partner/",
-        "date": {
-          "raw": "September 27, 2021",
-          "year": 2021,
-          "month": 9,
-          "day": 27
-        }
-      }
     ]
   },
   {
@@ -1896,7 +1883,17 @@
       }
     ],
     "mediaCoverage": [
-      
+      {
+        "name": "Salon",
+        "title": "COVID deaths severely undercounted among communities of color, new study finds.",
+        "link": "https://www.salon.com/2021/09/27/severely-undercounted-among-communities-of-color-new-study-finds_partner/",
+        "date": {
+          "raw": "September 27, 2021",
+          "year": 2021,
+          "month": 9,
+          "day": 27
+        }
+      }
     ]
   },
   {
