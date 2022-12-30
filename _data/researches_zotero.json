@@ -7575,41 +7575,6 @@
     ]
   },
   {
-    "title": "How will more obesity and less smoking affect life expectancy?",
-    "date": {
-      "year": 2014,
-      "month": 1,
-      "monthText": "January",
-      "raw": "2014-01"
-    },
-    "url": "http://crr.bc.edu/wp-content/uploads/2014/01/IB_14-2.pdf",
-    "publisher": "Center for Retirement Research at Boston College",
-    "authors": [
-      {
-        "firstName": "S H",
-        "lastName": "Preston",
-        "fullName": "S H Preston"
-      },
-      {
-        "firstName": "A",
-        "lastName": "Stokes",
-        "isMe": true,
-        "fullName": "Andrew C. Stokes"
-      },
-      {
-        "firstName": "N",
-        "lastName": "Mehta",
-        "fullName": "N Mehta"
-      },
-      {
-        "firstName": "B",
-        "lastName": "Cao",
-        "fullName": "B Cao"
-      }
-    ],
-    "mediaCoverage": []
-  },
-  {
     "title": "The dynamics of diabetes among birth cohorts in the US",
     "date": {
       "year": 2014,
