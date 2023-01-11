@@ -88,7 +88,7 @@ pageurl: /researches
             <p class="research__meta">
                 <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
             </p>
-            {%+ if research.mediaCoverage and research.mediaCoverage != empty %}
+            {% if research.mediaCoverage and research.mediaCoverage != empty %}
             <p class="research__meta research__meta-media-coverage">
                 <span>
                     <span class="research__meta-media-header">Media:</span>
