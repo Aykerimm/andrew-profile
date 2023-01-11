@@ -47,7 +47,7 @@ pageurl: /researches
         {% if research.mediaCoverage and research.mediaCoverage != empty %}
         <p class="research__meta research__meta-media-coverage">
             <span>
-                <span class="research__meta-media-header">Media:</span>
+                <span class="research__meta-media-header", trim_blocks=True>Media:</span>
                 {% for media in research.mediaCoverage %}
                 <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
                 {%- if forloop.last != true -%}
