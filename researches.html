@@ -3,12 +3,6 @@ layout: default
 pageurl: /researches
 ---
 <p class="title">Research</p>
-
-<style>
-    ul {
-        /* text-align: justify; */
-    }
-</style>
 <div class="researches__description">
     <p>I am a demographer and sociologist with interests in:</p>
     <ul>
@@ -42,22 +36,21 @@ pageurl: /researches
             {%- endfor -%}
         </p>
         <p class="research__meta">
-            <span><span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}</span>
-        </p>
-        {% if research.mediaCoverage and research.mediaCoverage != empty %}
-        <p class="research__meta research__meta-media-coverage">
-            <span>
-                <span class="research__meta-media-header", trim_blocks=True>Media:</span>
-                {% for media in research.mediaCoverage %}
-                <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
-                {%- if forloop.last != true -%}
-                ,
-                {%- endif -%}
-                {% endfor %}
-            
+            <span><span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}{% if research.mediaCoverage and research.mediaCoverage != empty %}
+            <span class="research__meta research__meta-media-coverage">
+                <span>
+                    <span class="research__meta-media-header">[Media:</span>
+                    {% for media in research.mediaCoverage %}
+                    <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
+                    {%- if forloop.last != true -%}
+                    ,
+                    {%- endif -%}
+                    {% endfor %}]
+                
+                </span>
             </span>
+            {% endif %}</span>
         </p>
-        {% endif %}
     </li>
     {% endfor %}
 </ul>
@@ -86,22 +79,21 @@ pageurl: /researches
                 {%- endfor -%}
             </p>
             <p class="research__meta">
-                <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }}
-            </p>
-            {% if research.mediaCoverage and research.mediaCoverage != empty %}
-            <p class="research__meta research__meta-media-coverage">
-                <span>
-                    <span class="research__meta-media-header">Media:</span>
-                {% for media in research.mediaCoverage %}
-                    <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
-                    {%- if forloop.last != true -%}
-                        ,
-                    {%- endif -%}
-                {% endfor %}
-                
+                <span class="research__meta-publisher">{{ research.publisher }}</span>{% if research.publisher != "" %}, {% endif %}{{ research.date.year }} {% if research.mediaCoverage and research.mediaCoverage != empty %}
+                <span class="research__meta research__meta-media-coverage">
+                    <span>
+                        <span class="research__meta-media-header">[Media:</span>
+                    {% for media in research.mediaCoverage %}
+                        <a class="research__meta-media-link" href="{{media.link}}">{{media.name}}</a>
+                        {%- if forloop.last != true -%}
+                            ,
+                        {%- endif -%}
+                    {% endfor %}]
+                    
+                    </span>
                 </span>
+                {% endif %}
             </p>
-            {% endif %}
         </li>
         {% endfor %}
     </ul>
